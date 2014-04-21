@@ -1,0 +1,47 @@
+[Package Name]
+Name=Scripting_Tools
+Version=0.20
+Release=1
+
+[Description]
+Description="This is a LabVIEW 8.6.1 Library of VIs to help with scripting.\0A\0AThe public VIs include routines to get hold of the block diagram references, control terminal references, get the \0A\0Aconnector pane reference and select the connector pane pattern and wire controls up to it. There are a number of \0A\0Aroutines to help wire the block diagram up, including creating a selection of the primitives (I got bored of coding \0A\0Athem all up !).\0A\0AI've stuck in some routines that work with tags - hidden away is the capability to tag LabVIEW vi-server objects with \0A\0Aarbitary data. One possibility is to use this to identify bits of the block diagram of a vi for moving and rewiring \0A\0Avia scripting.\0A\0AThe scripting Tools includes a separate XNode support library that provides routines to help scripting and terminal \0A\0Aadaptation in XNodes.\0A\0AThere are some routines to help with undo transactions new to this release.\0A\0ANB If you are installing this with the Array XNodes (also from the Code repository) then I strongly recommend \0A\0Aunzipping the two files into the same common directory and preserving the names. That should help linkage problems. "
+Summary="A  LabVIEW 8.6.1 Library of VIs to help with scripting."
+License="BSD License"
+Copyright="University of Leeds, 2007-2009"
+Distribution=LAVA
+Icon="<user.lib>/LAVACR/8.6.x/Rusty Nails/VI Scripting/Scripting Tools/Scripting Tools.bmp"
+Vendor="Gavin Burnell <g.burnell@leeds.ac.uk>"
+URL=http://lavag.org/topic/10299-cr-scripting-tools/
+Packager="Gavin Burnell <g.burnell@leeds.ac.uk>"
+
+[Platform]
+Exclusive_LabVIEW_Version=>=8.2
+Exclusive_LabVIEW_System=ALL
+Exclusive_OS=ALL
+
+[Script VIs]
+Source Dir="<user.lib>/LAVACR/8.6.x/Rusty Nails/VI Scripting/Scripting Tools"
+PreInstall=""
+PostInstall=""
+PreUninstall=""
+PostUninstall=""
+Verify=""
+PreBuild=""
+PostBuild=""
+
+[Dependencies]
+AutoReqProv=FALSE
+Requires=""
+Conflicts=""
+
+[Files]
+Num File Groups=1
+
+[File Group 0]
+Source Dir="<user.lib>/LAVACR/8.6.x/Rusty Nails/VI Scripting/Scripting Tools"
+Target Dir="<user.lib>/LAVA_CR/Scripting Tools"
+Replace Mode=Always
+Exclude_SCC_dir=TRUE
+Num Files=1
+File 0=**
+

@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<XNode LVVersion="8608001">
+	<Property Name="NI.Lib.Description" Type="Str">This xnode will wrap any sub-vi and if it finds a magic terminal will pass information about which terminals are wired up into the sub-vi</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">#'#!!1!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!-#!!!*Q(C=R:3`4BN"%)?(+)+U\N)FMK#[+ES4,B2O3'^8V&amp;.3)6%G&gt;+Z.Q\S#8Y$#42ZA8M'PY0*EH6#=&lt;`@7.K!\3+2%G&lt;WZ0\`:H@FO&lt;W^&amp;MLU4?3O`987PN?'4]RY\K80Y=H&lt;&lt;;&lt;0,ER1`H^XXW/S]4P(&lt;_YP439&gt;&gt;8'XDJZX=BX@&lt;_'1L4&gt;&lt;9^O()H]5H450;JGHKTPC[S=&amp;5OO[+JX#&gt;MEQG65&gt;].W\&gt;^HM?4[H&lt;#7UG4&lt;Y_ZSN7F@%^]3I2^I_P%W&lt;6']`PN_[?HZ:^MHXK'&amp;]X_`"O`'Q@L]KL^?7P&lt;JK&lt;F_*0L#.?6V8V9HYG?4]48@&amp;8_*I`Y+NX\``Z]+CV1[QO^`7H&gt;PW?8.\?X8G(8?8`1YZ\`K_P\@_V`T_0H`DR^P^]V&lt;[HUY@.:PVFMXHYVPL0@_Q0K6;KW3)=C'QW'TRQRQV8($X1!TX1!TX1!^X2(&gt;X2(&gt;X2(&gt;X1$&gt;X1$&gt;X1$6X2&amp;6X2&amp;6X2&amp;4UX&gt;%%8&gt;%%(+3A?&amp;!K3"AG#TK")=!JY!J[!*_$B51+?A#@A#8A#(LJ)Q"0Q"$Q"4]$$-!FY!J[!*_!*?%C633)X&gt;(A#(N+,Q_0Q/$Q/D].$38&amp;Y(!#HG*0931+'/%(HBI7%I]0$L4A]$I`$Y`!Y0)4&amp;Y8&amp;Y("[(R_&amp;B3*Y6TT3JI=.$'D&amp;Y$"[$R_!R?%AN"I`"9`!90!90Z=4A-8A-#+/AE2Q%-19:(9Q(A]@AY3)'D]&amp;D]"A]"A_B`)5MTUSC31U&gt;(I6(Y6&amp;Y&amp;"[&amp;BR3C]#A]#I`#I`#16B1?B5@B58A5(EK*QK0Q+$Q+C&amp;+5]K)E5Q9KH22"Y?()KU8T6`*-ILG*F-5L:6&amp;+77R3&amp;J'5R3(FIUPZG&amp;)_EJ4*FT+J5C:,SC2)?4EJU&amp;*AJ"32-DBVF"8H*&lt;\!Z`A5P]&lt;(_!A@YI-U^#^X8+V7MFQO:&lt;&amp;9S(Q_F_FU+N@8VT)?DW5U'MFQ/*4"9,$&lt;C4\3&gt;BN#OS_^&lt;/]?X&lt;]2?6_O4\?WP2X]?(2`ROGM8(MN*`C`?S-PF0&lt;'2X0U#T8O&lt;,%!!!!!</Property>
+	<Property Name="NI.Lib.Version" Type="Str">0.1.0.0</Property>
+	<Property Name="NI.XClass.Loc.Name" Type="Str">Connector Pane Wrapper</Property>
+	<Property Name="NI.XClass.Name" Type="Str">Connector Pane Wrapper</Property>
+	<Property Name="NI.XItem.DeclaredLeakProof" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Name" Type="Str">Connector Pane Wrapper</Property>
+	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
+	<Property Name="XNode_Manager" Type="Str">1.5</Property>
+	<Item Name="LoadSubvi.vi" Type="VI" URL="../Subvis/LoadSubvi.vi"/>
+	<Item Name="CanAcceptDataDrag2.vi" Type="VI" URL="../CanAcceptDataDrag2.vi"/>
+	<Item Name="State.ctl" Type="Ability VI" URL="../State.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">State</Property>
+	</Item>
+	<Item Name="Bounds.vi" Type="Ability VI" URL="../Bounds.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Bounds</Property>
+	</Item>
+	<Item Name="Image.vi" Type="Ability VI" URL="../Image.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Image</Property>
+	</Item>
+	<Item Name="BuildMenu3.vi" Type="Ability VI" URL="../BuildMenu3.vi">
+		<Property Name="NI.XItem.Name" Type="Str">BuildMenu3</Property>
+	</Item>
+	<Item Name="GrowInfo.vi" Type="Ability VI" URL="../GrowInfo.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GrowInfo</Property>
+	</Item>
+	<Item Name="DoubleClick.vi" Type="Ability VI" URL="../DoubleClick.vi">
+		<Property Name="NI.XItem.Name" Type="Str">DoubleClick</Property>
+	</Item>
+	<Item Name="SelectMenu3.vi" Type="Ability VI" URL="../SelectMenu3.vi">
+		<Property Name="NI.XItem.Name" Type="Str">SelectMenu3</Property>
+	</Item>
+	<Item Name="DataDrag2.vi" Type="Ability VI" URL="../DataDrag2.vi">
+		<Property Name="NI.XItem.Name" Type="Str">DataDrag2</Property>
+	</Item>
+	<Item Name="GetTerms3.vi" Type="Ability VI" URL="../GetTerms3.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GetTerms3</Property>
+	</Item>
+	<Item Name="GenerateCode.vi" Type="Ability VI" URL="../GenerateCode.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GenerateCode</Property>
+	</Item>
+	<Item Name="AdaptToInputs.vi" Type="Ability VI" URL="../AdaptToInputs.vi">
+		<Property Name="NI.XItem.Name" Type="Str">AdaptToInputs</Property>
+	</Item>
+</XNode>

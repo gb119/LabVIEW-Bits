@@ -1,0 +1,43 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<XNode LVVersion="8608001">
+	<Property Name="NI.Lib.Description" Type="Str">This XNodeI removes all duplicate elements in &lt;B&gt;Input Array&lt;/B&gt; and outputs the result as &lt;B&gt;Output Array&lt;/B&gt;.  It also outputs the &lt;B&gt;indices of removed elements&lt;B&gt;.</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">#'#!!1!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!,8!!!*Q(C=T:1R&lt;BN"$%8`"ALA*E&amp;U!U?)4E$E"GI$O*&amp;P9&amp;Z"L&gt;,*894!"?(#N85&amp;H3!!,Z"#6V$P;P.W.:+V]M*SE1#:-45\@Y&lt;E7]ZYJ&lt;:&gt;3!06Z^LYV@;7^&gt;YQ24R9&gt;`%A\I98@@^QP/X%`SDW_@Q^`P52WZH]Z`T0Z2`XP8_H$(XZ4^:@]8^4`PII2F`_Y_58^4`WLV`.8T`([.;`(L^A("`8P_=VRW`UX_@PW8$[@JW\O$`$]@-"&gt;S(K&amp;`5P/)?6U`@PO5F&gt;HM[6[FGPOTP0``_&gt;;8Q(ZG=X`?-G67I_2&amp;BCA4FG;J&lt;K2%`U2%`U2%`U1!`U1!`U1!^U2X&gt;U2X&gt;U2X&gt;U1T&gt;U1T&gt;U1T@UNK-,8?B#JSJ*]C22%D1*E'Q'2=F0QJ0Q*$Q*$V-F0!F0QJ0Q*$RM5=+4]#1]#5`#AZM3HI1HY5FY%BZ#N34:&gt;H2Y%B\#+_!*?!+?A#@A);5#HA!A3"9%$I+!I7!R?!BY!J[!BU=&amp;0!&amp;0Q"0Q"$QM+_!*?!+?A#@AQ;7N3L1U45?(BT"S?"Q?B]@B=8A),9@(Y8&amp;Y("[(BX2S?"Q?"]**[!1(19[4M]':/$Q/$Y-=(I@(Y8&amp;Y("[7WB0SND).4&gt;02Y4&amp;Y$"[$R_!R?!ABA]@A-8A-(I/(M$*Y$"[$R_!R?%AFA]@A-8A-%#-J[75%-RS.49:A]0$8XB:L4SF;%GO\6#[PSK65O7QKFUDF=KA=OMJBKBS33P&amp;6CKJ3,*5CK,S=#L1+D%I3&amp;?&gt;GI\&lt;]&lt;L!VNM)7W!S&lt;9B.MB!U&lt;V\_]=&lt;P&gt;;L0:;,V?;\6;;&lt;&amp;9;$;&lt;;4K&gt;;D+:;$1;;4A=;N]O[&lt;N7\&lt;^,=ZY&lt;?Z#?1I.@&gt;^0LRZ];2$/`V_"X-W`':L\5Y(9ZP&lt;ZNRH:_R@TSY_0S[APT_&gt;0^F;K\E;JG@,B1N@T]Y]0&gt;^U`PF^88GY&gt;K/JV8&gt;D/PZN_;@,PPUP`Q&lt;&gt;1\\=:$D@Y!X&lt;^6&gt;1!!!!!</Property>
+	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
+	<Property Name="NI.XClass.Loc.Name" Type="Str">OpenG Remove Duplicates From 1D Array</Property>
+	<Property Name="NI.XClass.Name" Type="Str">OpenG Remove Duplicates From 1D Array</Property>
+	<Property Name="NI.XItem.DeclaredLeakProof" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Name" Type="Str">OpenG Remove Duplicates From 1D Array</Property>
+	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
+	<Property Name="XNode_Manager" Type="Str">1.5</Property>
+	<Item Name="State.ctl" Type="Ability VI" URL="../State.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">State</Property>
+	</Item>
+	<Item Name="AdaptToInputs.vi" Type="Ability VI" URL="../AdaptToInputs.vi">
+		<Property Name="NI.XItem.Name" Type="Str">AdaptToInputs</Property>
+	</Item>
+	<Item Name="Bounds.vi" Type="Ability VI" URL="../Bounds.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Bounds</Property>
+	</Item>
+	<Item Name="DisplayName.vi" Type="Ability VI" URL="../DisplayName.vi">
+		<Property Name="NI.XItem.Name" Type="Str">DisplayName</Property>
+	</Item>
+	<Item Name="GenerateCode.vi" Type="Ability VI" URL="../GenerateCode.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GenerateCode</Property>
+	</Item>
+	<Item Name="GetErrors3.vi" Type="Ability VI" URL="../GetErrors3.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GetErrors3</Property>
+	</Item>
+	<Item Name="GetTerms3.vi" Type="Ability VI" URL="../GetTerms3.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GetTerms3</Property>
+	</Item>
+	<Item Name="GrowInfo.vi" Type="Ability VI" URL="../GrowInfo.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GrowInfo</Property>
+	</Item>
+	<Item Name="Image.vi" Type="Ability VI" URL="../Image.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Image</Property>
+	</Item>
+	<Item Name="Help.vi" Type="Ability VI" URL="../OpenG Remove Duplicates from 1 D Array.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Help</Property>
+	</Item>
+</XNode>

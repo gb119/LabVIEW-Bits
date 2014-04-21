@@ -1,0 +1,43 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<XNode LVVersion="8608001">
+	<Property Name="NI.Lib.Description" Type="Str">Present the dimensions of the input array as seperate indices</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">#'#!!1!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+=!!!*Q(C=\:5RDBJ"%%5`FCUZ]R!Y8Q^(K".9YAI=Q38Z"+3\[]"EDCN&lt;4]A6#,B!81&amp;J:?@=Q)T@$,X!'B&lt;EF3UZ=$&gt;&amp;4``KKHJUNQ;J&lt;[_FFWIPN?JMQX^W&gt;?@PBA/LKI/6P`K,XDY:XV9(SU\5X\L/R:`VNY`]\&gt;HYNPB0V&gt;^0,]?@K0_Q55`&amp;\QF0V^^[NP(659;$8`[)NG49\5X*=J2B\^\ZD_`!A[-[WSZ?0`VP@\N&gt;8TS%:\4@1RCI?R&amp;BC18GG+F,US:[IC&gt;[IC&gt;[IA&gt;[I!&gt;[I!&gt;[I$O[ITO[ITO[IRO[I2O[I2O[I@=&gt;8?B#&amp;TJ)3@'E5*)U3:!M"E8*6]+4]#1]#1^4*4Q*4]+4]#1],&amp;(#E`!E0!F0QE/9%J[%*_&amp;*?")?5P5EW8&gt;U?")?UCPA#8A#HI!HY+'E!JY!)#A7*![3A+(!'4Q%0!&amp;0Q-/D!J[!*_!*?!)?X!JY!J[!*_!*?!DJ&gt;S6[GK[DQU-;/4Q/D]0D]$A]J*&lt;$Y`!Y0![0QU-Z/4Q/DQ0B&amp;(33AS!HS&amp;HA4"Q?BY&gt;"$I`$Y`!Y0!Y0LP[%P._:DK&lt;L[0!90!;0Q70Q'$SEE-&amp;D]"A]"I`"1VI:0!;0Q70Q'$S5EM&amp;D]"A]"IB2F0)SEBG"RC*$-(DY^,@&amp;_F/+HM4[,J8,KX)J63[&lt;SC63O2QKB[ZSG#K(J,,Z+JOKMFEKG[$SYV3A67"5CKA%&gt;QOVZHO&amp;,&lt;!Z.M/GW!1&lt;9T5W\%,`]-,V?KX6;K8&amp;9K(Z@+\:&lt;+&lt;J&gt;+L*:+,R?+S[LD5=$H?PA3P[\I7Q@3^&gt;]\T=;.$5&lt;W[;U3XD:_&lt;@'*N"-WJ?-&lt;Z&gt;&lt;L\`[-:G^*8ZX=VS=`^B.LP\_+7^'^\76_]_N@@POTT0_$`Z"^[.?K($'0&lt;I*ZE+&lt;\9!!!!!</Property>
+	<Property Name="NI.Lib.Version" Type="Str">1.0.0.1</Property>
+	<Property Name="NI.XClass.Loc.Name" Type="Str">Array Dimension and Index</Property>
+	<Property Name="NI.XClass.Name" Type="Str">Array Dimension and Index</Property>
+	<Property Name="NI.XItem.DeclaredLeakProof" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Name" Type="Str">Array Dimension and Index</Property>
+	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
+	<Property Name="XNode_Manager" Type="Str">1.5</Property>
+	<Item Name="State.ctl" Type="Ability VI" URL="../State.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">State</Property>
+	</Item>
+	<Item Name="AdaptToInputs.vi" Type="Ability VI" URL="../AdaptToInputs.vi">
+		<Property Name="NI.XItem.Name" Type="Str">AdaptToInputs</Property>
+	</Item>
+	<Item Name="Bounds.vi" Type="Ability VI" URL="../Bounds.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Bounds</Property>
+	</Item>
+	<Item Name="DisplayName.vi" Type="Ability VI" URL="../DisplayName.vi">
+		<Property Name="NI.XItem.Name" Type="Str">DisplayName</Property>
+	</Item>
+	<Item Name="GenerateCode.vi" Type="Ability VI" URL="../GenerateCode.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GenerateCode</Property>
+	</Item>
+	<Item Name="GetErrors3.vi" Type="Ability VI" URL="../GetErrors3.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GetErrors3</Property>
+	</Item>
+	<Item Name="GetTerms3.vi" Type="Ability VI" URL="../GetTerms3.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GetTerms3</Property>
+	</Item>
+	<Item Name="GrowInfo.vi" Type="Ability VI" URL="../GrowInfo.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GrowInfo</Property>
+	</Item>
+	<Item Name="Help.vi" Type="Ability VI" URL="../Array Size and Index.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Help</Property>
+	</Item>
+	<Item Name="Image.vi" Type="Ability VI" URL="../Image.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Image</Property>
+	</Item>
+</XNode>

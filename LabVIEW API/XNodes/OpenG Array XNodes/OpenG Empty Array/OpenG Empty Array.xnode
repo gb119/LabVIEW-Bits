@@ -1,0 +1,37 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<XNode LVVersion="8608001">
+	<Property Name="NI.Lib.Description" Type="Str">Returns TRUE if Array is empty (any dimension has length equal zero). Otherwise, this function returns FALSE.a</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">#'#!!1!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+6!!!*Q(C=X:3RDNJ!%):`2^%J:?COD*#ODT3PY&amp;?A&gt;T665N/[Z"8G&amp;?B3U[2+.;_!2(5F3EFVTO&gt;F!S@&amp;'%6+=9L.D_'@W:H0O[O6SP6"?K``Z"K'/`'H_9TB[7EW9YT0::TDNT._RW^F8/04'=-V/%RFD/^X`@S:A4W[ZQI48;\RY&gt;JK+DZ-P_GL_J0P=#'&lt;J0O,^\]T@`0T0\^_]_N`:``=W8^P_?JP"2ICT1'&gt;U!M;?H2!*`3#BBY&gt;U-`[\-`_K?&lt;VZX'H7O&gt;WJX%'"Z1IE#-LMTIE@O)H@O)H@O)(@O!(@O!(@O!\PO-\PO-\PO-&lt;PO%&lt;PO%&lt;PO'8'V`YQB=_3%HTJ&amp;&amp;3.#G1*)/CZ#PB38A3HI3(PUJY%J[%*_&amp;*?%B2QJ0Q*$Q*4],$-#5]#5`#E`!E0*1K*&amp;FO@(A3(MILY!FY!J[!*_#BJ1+?!#"I&amp;B1/CI#B)"D]#(A#HI#(HQJY!J[!*_!*?!ALY!FY!J[!*_"B3*G6+$4DD1]0:?4Q/$Q/D]0D]&amp;";$I`$Y`!Y0!Y0\?4Q/$Q/B.01+1[#H%&amp;/AP0(Y8&amp;Y?-DB=8A=(I@(Y3&amp;56MD,T)QUYYU0D]&amp;D]"A]"I`"1QE:0!;0Q70Q'$S5F=&amp;D]"A]"I`"1SM:0!;0Q7/!'%VJ,[/9-&gt;")-AS$BU`:,6:7+1K*F6OKGV&gt;V5[JO.N6.J,IZ6"&gt;&gt;&gt;4&amp;6&amp;UFV]F5H687S6#&gt;"^?65I66B6*OI$BY4&gt;?2\DX:ICT:ID6;I25OU')@_Y]4D];D^@K`&gt;&lt;K@N&gt;KP.:K0V?KX6;K7W&lt;&lt;6=,L69,#\(Q#@OSY&amp;QZVTKU#.[1"C./P3)HN6]`&gt;9X\??O;&lt;O04@O&gt;:^-X8X\5?(@/@[DDO\FT[3W=D8J8TM:8=`1,`@YHH1!!!!!</Property>
+	<Property Name="NI.Lib.Version" Type="Str">0.0.0.0</Property>
+	<Property Name="NI.XClass.Loc.Name" Type="Str"></Property>
+	<Property Name="NI.XClass.Name" Type="Str"></Property>
+	<Property Name="NI.XItem.DeclaredLeakProof" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Name" Type="Str"></Property>
+	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
+	<Property Name="XNode_Manager" Type="Str">1.5</Property>
+	<Item Name="AdaptToInputs.vi" Type="Ability VI" URL="../AdaptToInputs.vi">
+		<Property Name="NI.XItem.Name" Type="Str">AdaptToInputs</Property>
+	</Item>
+	<Item Name="State.ctl" Type="Ability VI" URL="../State.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">State</Property>
+	</Item>
+	<Item Name="Bounds.vi" Type="Ability VI" URL="../Bounds.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Bounds</Property>
+	</Item>
+	<Item Name="GenerateCode.vi" Type="Ability VI" URL="../GenerateCode.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GenerateCode</Property>
+	</Item>
+	<Item Name="GetErrors3.vi" Type="Ability VI" URL="../GetErrors3.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GetErrors3</Property>
+	</Item>
+	<Item Name="GetTerms3.vi" Type="Ability VI" URL="../GetTerms3.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GetTerms3</Property>
+	</Item>
+	<Item Name="Image.vi" Type="Ability VI" URL="../Image.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Image</Property>
+	</Item>
+	<Item Name="OpenG Empty Array.vi" Type="Ability VI" URL="../OpenG Empty Array.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Help</Property>
+	</Item>
+</XNode>
