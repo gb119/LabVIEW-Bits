@@ -1,0 +1,271 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<XControl LVVersion="8608001">
+	<Property Name="NI.Lib.Icon" Type="Bin">#'#!!1!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(]!!!*Q(C=\&gt;7R=2MR%!81N=?"5X&lt;A91P&lt;!FNA#^M#5Y6M96NA"R[WM#WQ"&lt;9A0ZYR'E?G!WPM1$AN&gt;@S(!ZZQG&amp;0%VLZ'@)H8:_X\&lt;^P(^7@8H\4Y;"`NX\;8JZPUX@@MJXC]C.3I6K5S(F/^DHTE)R`ZS%@?]J;XP/5N&lt;XH*3V\SEJ?]Z#F0?=J4HP+5&lt;Y=]Z#%0/&gt;+9@%QU"BU$D-YI-4[':XC':XB]D?%:HO%:HO(2*9:H?):H?)&lt;(&lt;4%]QT-]QT-]BNIEMRVSHO%R@$20]T20]T30+;.Z'K".VA:OAW"%O^B/GK&gt;ZGM&gt;J.%`T.%`T.)`,U4T.UTT.UTROW6;F.]XDE0-9*IKH?)KH?)L(U&amp;%]R6-]R6-]JIPC+:[#+"/7Q2'CX&amp;1[F#`&amp;5TR_2@%54`%54`'YN$WBWF&lt;GI8E==J\E3:\E3:\E-51E4`)E4`)EDW%D?:)H?:)H?5Q6S:-]S:-A;6,42RIMX:A[J3"Z`'S\*&lt;?HV*MENS.C&lt;&gt;Z9GT,7:IOVC7*NDFA00&gt;&lt;$D0719CV_L%7.N6CR&amp;C(7(R=,(1M4;Z*9.T][RNXH46X62:X632X61?X6\H(L8_ZYP^`D&gt;LP&amp;^8K.S_53Z`-Z4K&gt;4()`(/"Q/M&gt;`P9\@&lt;P&lt;U'PDH?8AA`XUMPTP_EXOF`[8`Q&lt;IT0]?OYVOA(5/(_Z!!!!!!</Property>
+	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
+	<Property Name="NI.XClass.Flags" Type="Int">0</Property>
+	<Property Name="NI.XItem.DeclaredLeakProof" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Name" Type="Str">XControl 1</Property>
+	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
+	<Item Name="Properties" Type="Folder">
+		<Item Name="Disabled.Plot:Disabled" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Disabled.Plot:Disabled</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:Disabled</Property>
+			<Item Name="Plot_Disabled_write.vi" Type="Property VI" URL="../Properties/Plot_Disabled_write.vi"/>
+			<Item Name="Plot_Disabled_read.vi" Type="Property VI" URL="../Properties/Plot_Disabled_read.vi"/>
+		</Item>
+		<Item Name="KeyNav.Plot:KeyNav" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">KeyNav.Plot:KeyNav</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:KeyNav</Property>
+			<Item Name="Plot_KeyNav_write.vi" Type="Property VI" URL="../Properties/Plot_KeyNav_write.vi"/>
+			<Item Name="Plot_KeyNav_read.vi" Type="Property VI" URL="../Properties/Plot_KeyNav_read.vi"/>
+		</Item>
+		<Item Name="Label.Plot:Label" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Label.Plot:Label</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:Label</Property>
+			<Item Name="Plot_Label_read.vi" Type="Property VI" URL="../Properties/Plot_Label_read.vi"/>
+		</Item>
+		<Item Name="SkipTabbing.Plot:SkipTabbing" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">SkipTabbing.Plot:SkipTabbing</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:SkipTabbing</Property>
+			<Item Name="Plot_SkipTabbing_write.vi" Type="Property VI" URL="../Properties/Plot_SkipTabbing_write.vi"/>
+			<Item Name="Plot_SkipTabbing_read.vi" Type="Property VI" URL="../Properties/Plot_SkipTabbing_read.vi"/>
+		</Item>
+		<Item Name="TipStrip.Plot:TipStrip" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">TipStrip.Plot:TipStrip</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:TipStrip</Property>
+			<Item Name="Plot_TipStrip_write.vi" Type="Property VI" URL="../Properties/Plot_TipStrip_write.vi"/>
+			<Item Name="Plot_TipStrip_read.vi" Type="Property VI" URL="../Properties/Plot_TipStrip_read.vi"/>
+		</Item>
+		<Item Name="Visible.Plot:Visible" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Visible.Plot:Visible</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:Visible</Property>
+			<Item Name="Plot_Visible_write.vi" Type="Property VI" URL="../Properties/Plot_Visible_write.vi"/>
+			<Item Name="Plot_Visible_read.vi" Type="Property VI" URL="../Properties/Plot_Visible_read.vi"/>
+		</Item>
+		<Item Name="ActXScl.Plot:ActXScl" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">ActXScl.Plot:ActXScl</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:ActXScl</Property>
+			<Item Name="Plot_ActXScl_write.vi" Type="Property VI" URL="../Properties/Plot_ActXScl_write.vi"/>
+			<Item Name="Plot_ActXScl_read.vi" Type="Property VI" URL="../Properties/Plot_ActXScl_read.vi"/>
+		</Item>
+		<Item Name="ActYScl.Plot:ActYScl" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">ActYScl.Plot:ActYScl</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:ActYScl</Property>
+			<Item Name="Plot_ActYScl_write.vi" Type="Property VI" URL="../Properties/Plot_ActYScl_write.vi"/>
+			<Item Name="Plot_ActYScl_read.vi" Type="Property VI" URL="../Properties/Plot_ActYScl_read.vi"/>
+		</Item>
+		<Item Name="AutoscaleDelay.Plot:AutoscaleDelay" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">AutoscaleDelay.Plot:AutoscaleDelay</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:AutoscaleDelay</Property>
+			<Item Name="Plot_AutoscaleDelay_write.vi" Type="Property VI" URL="../Properties/Plot_AutoscaleDelay_write.vi"/>
+			<Item Name="Plot_AutoscaleDelay_read.vi" Type="Property VI" URL="../Properties/Plot_AutoscaleDelay_read.vi"/>
+		</Item>
+		<Item Name="ActPaletteTool.Plot:ActPaletteTool" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">ActPaletteTool.Plot:ActPaletteTool</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:ActPaletteTool</Property>
+			<Item Name="Plot_ActPaletteTool_write.vi" Type="Property VI" URL="../Properties/Plot_ActPaletteTool_write.vi"/>
+			<Item Name="Plot_ActPaletteTool_read.vi" Type="Property VI" URL="../Properties/Plot_ActPaletteTool_read.vi"/>
+		</Item>
+		<Item Name="Palette Visible.Plot:Palette Visible" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Palette Visible.Plot:Palette Visible</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:Palette Visible</Property>
+			<Item Name="Plot_Palette Visible_write.vi" Type="Property VI" URL="../Properties/Plot_Palette Visible_write.vi"/>
+			<Item Name="Plot_Palette Visible_read.vi" Type="Property VI" URL="../Properties/Plot_Palette Visible_read.vi"/>
+		</Item>
+		<Item Name="PlotAreaLeft.Plot:PlotAreaLeft" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">PlotAreaLeft.Plot:PlotAreaLeft</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:PlotAreaLeft</Property>
+			<Item Name="Plot_PlotAreaLeft_read.vi" Type="Property VI" URL="../Properties/Plot_PlotAreaLeft_read.vi"/>
+		</Item>
+		<Item Name="PlotAreaTop.Plot:PlotAreaTop" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">PlotAreaTop.Plot:PlotAreaTop</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:PlotAreaTop</Property>
+			<Item Name="Plot_PlotAreaTop_read.vi" Type="Property VI" URL="../Properties/Plot_PlotAreaTop_read.vi"/>
+		</Item>
+		<Item Name="ScaleLegendVis.Plot:ScaleLegendVis" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">ScaleLegendVis.Plot:ScaleLegendVis</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:ScaleLegendVis</Property>
+			<Item Name="Plot_ScaleLegendVis_write.vi" Type="Property VI" URL="../Properties/Plot_ScaleLegendVis_write.vi"/>
+			<Item Name="Plot_ScaleLegendVis_read.vi" Type="Property VI" URL="../Properties/Plot_ScaleLegendVis_read.vi"/>
+		</Item>
+		<Item Name="Transpose Array.Plot:Transpose Array" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Transpose Array.Plot:Transpose Array</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:Transpose Array</Property>
+			<Item Name="Plot_Transpose Array_write.vi" Type="Property VI" URL="../Properties/Plot_Transpose Array_write.vi"/>
+			<Item Name="Plot_Transpose Array_read.vi" Type="Property VI" URL="../Properties/Plot_Transpose Array_read.vi"/>
+		</Item>
+		<Item Name="XScale.Plot:XScale" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">XScale.Plot:XScale</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:XScale</Property>
+			<Item Name="Plot_XScale_read.vi" Type="Property VI" URL="../Properties/Plot_XScale_read.vi"/>
+		</Item>
+		<Item Name="X-Scrollbar Visible.Plot:X-Scrollbar Visible" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">X-Scrollbar Visible.Plot:X-Scrollbar Visible</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:X-Scrollbar Visible</Property>
+			<Item Name="Plot_X-Scrollbar Visible_write.vi" Type="Property VI" URL="../Properties/Plot_X-Scrollbar Visible_write.vi"/>
+			<Item Name="Plot_X-Scrollbar Visible_read.vi" Type="Property VI" URL="../Properties/Plot_X-Scrollbar Visible_read.vi"/>
+		</Item>
+		<Item Name="YScale.Plot:YScale" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">YScale.Plot:YScale</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:YScale</Property>
+			<Item Name="Plot_YScale_read.vi" Type="Property VI" URL="../Properties/Plot_YScale_read.vi"/>
+		</Item>
+		<Item Name="Active Cursor.Plot:Active Cursor" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Active Cursor.Plot:Active Cursor</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:Active Cursor</Property>
+			<Item Name="Plot_Active Cursor_write.vi" Type="Property VI" URL="../Properties/Plot_Active Cursor_write.vi"/>
+			<Item Name="Plot_Active Cursor_read.vi" Type="Property VI" URL="../Properties/Plot_Active Cursor_read.vi"/>
+		</Item>
+		<Item Name="Active Plot.Plot:Active Plot" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Active Plot.Plot:Active Plot</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:Active Plot</Property>
+			<Item Name="Plot_Active Plot_write.vi" Type="Property VI" URL="../Properties/Plot_Active Plot_write.vi"/>
+			<Item Name="Plot_Active Plot_read.vi" Type="Property VI" URL="../Properties/Plot_Active Plot_read.vi"/>
+		</Item>
+		<Item Name="Cursor.Plot:Cursor" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor.Plot:Cursor</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:Cursor</Property>
+			<Item Name="Plot_Cursor_read.vi" Type="Property VI" URL="../Properties/Plot_Cursor_read.vi"/>
+		</Item>
+		<Item Name="Cursor Palette Vis.Plot:Cursor Palette Vis" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor Palette Vis.Plot:Cursor Palette Vis</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:Cursor Palette Vis</Property>
+			<Item Name="Plot_Cursor Palette Vis_write.vi" Type="Property VI" URL="../Properties/Plot_Cursor Palette Vis_write.vi"/>
+			<Item Name="Plot_Cursor Palette Vis_read.vi" Type="Property VI" URL="../Properties/Plot_Cursor Palette Vis_read.vi"/>
+		</Item>
+		<Item Name="CrsrList.Plot:CrsrList" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">CrsrList.Plot:CrsrList</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:CrsrList</Property>
+			<Item Name="Plot_CrsrList_write.vi" Type="Property VI" URL="../Properties/Plot_CrsrList_write.vi"/>
+			<Item Name="Plot_CrsrList_read.vi" Type="Property VI" URL="../Properties/Plot_CrsrList_read.vi"/>
+		</Item>
+		<Item Name="IgnoreAttributes.Plot:IgnoreAttributes" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">IgnoreAttributes.Plot:IgnoreAttributes</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:IgnoreAttributes</Property>
+			<Item Name="Plot_IgnoreAttributes_write.vi" Type="Property VI" URL="../Properties/Plot_IgnoreAttributes_write.vi"/>
+			<Item Name="Plot_IgnoreAttributes_read.vi" Type="Property VI" URL="../Properties/Plot_IgnoreAttributes_read.vi"/>
+		</Item>
+		<Item Name="IgnoreTimestamp.Plot:IgnoreTimestamp" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">IgnoreTimestamp.Plot:IgnoreTimestamp</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:IgnoreTimestamp</Property>
+			<Item Name="Plot_IgnoreTimestamp_write.vi" Type="Property VI" URL="../Properties/Plot_IgnoreTimestamp_write.vi"/>
+			<Item Name="Plot_IgnoreTimestamp_read.vi" Type="Property VI" URL="../Properties/Plot_IgnoreTimestamp_read.vi"/>
+		</Item>
+		<Item Name="LegAutosize.Plot:LegAutosize" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">LegAutosize.Plot:LegAutosize</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:LegAutosize</Property>
+			<Item Name="Plot_LegAutosize_write.vi" Type="Property VI" URL="../Properties/Plot_LegAutosize_write.vi"/>
+			<Item Name="Plot_LegAutosize_read.vi" Type="Property VI" URL="../Properties/Plot_LegAutosize_read.vi"/>
+		</Item>
+		<Item Name="LegDisable.Plot:LegDisable" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">LegDisable.Plot:LegDisable</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:LegDisable</Property>
+			<Item Name="Plot_LegDisable_write.vi" Type="Property VI" URL="../Properties/Plot_LegDisable_write.vi"/>
+			<Item Name="Plot_LegDisable_read.vi" Type="Property VI" URL="../Properties/Plot_LegDisable_read.vi"/>
+		</Item>
+		<Item Name="LegPlots.Plot:LegPlots" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">LegPlots.Plot:LegPlots</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:LegPlots</Property>
+			<Item Name="Plot_LegPlots_write.vi" Type="Property VI" URL="../Properties/Plot_LegPlots_write.vi"/>
+			<Item Name="Plot_LegPlots_read.vi" Type="Property VI" URL="../Properties/Plot_LegPlots_read.vi"/>
+		</Item>
+		<Item Name="Legend Visible.Plot:Legend Visible" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Legend Visible.Plot:Legend Visible</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:Legend Visible</Property>
+			<Item Name="Plot_Legend Visible_write.vi" Type="Property VI" URL="../Properties/Plot_Legend Visible_write.vi"/>
+			<Item Name="Plot_Legend Visible_read.vi" Type="Property VI" URL="../Properties/Plot_Legend Visible_read.vi"/>
+		</Item>
+		<Item Name="Plot.Plot:Plot" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Plot.Plot:Plot</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:Plot</Property>
+			<Item Name="Plot_Plot_read.vi" Type="Property VI" URL="../Properties/Plot_Plot_read.vi"/>
+		</Item>
+		<Item Name="Selected Cursors.Plot:Selected Cursors" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Selected Cursors.Plot:Selected Cursors</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:Selected Cursors</Property>
+			<Item Name="Plot_Selected Cursors_write.vi" Type="Property VI" URL="../Properties/Plot_Selected Cursors_write.vi"/>
+			<Item Name="Plot_Selected Cursors_read.vi" Type="Property VI" URL="../Properties/Plot_Selected Cursors_read.vi"/>
+		</Item>
+		<Item Name="Smooth Update.Plot:Smooth Update" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Smooth Update.Plot:Smooth Update</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:Smooth Update</Property>
+			<Item Name="Plot_Smooth Update_write.vi" Type="Property VI" URL="../Properties/Plot_Smooth Update_write.vi"/>
+			<Item Name="Plot_Smooth Update_read.vi" Type="Property VI" URL="../Properties/Plot_Smooth Update_read.vi"/>
+		</Item>
+		<Item Name="CartesianLinesVisible.Plot:CartesianLinesVisible" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">CartesianLinesVisible.Plot:CartesianLinesVisible</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:CartesianLinesVisible</Property>
+			<Item Name="Plot_CartesianLinesVisible_write.vi" Type="Property VI" URL="../Properties/Plot_CartesianLinesVisible_write.vi"/>
+			<Item Name="Plot_CartesianLinesVisible_read.vi" Type="Property VI" URL="../Properties/Plot_CartesianLinesVisible_read.vi"/>
+		</Item>
+		<Item Name="OptionalLabelsVisible.Plot:OptionalLabelsVisible" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">OptionalLabelsVisible.Plot:OptionalLabelsVisible</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:OptionalLabelsVisible</Property>
+			<Item Name="Plot_OptionalLabelsVisible_write.vi" Type="Property VI" URL="../Properties/Plot_OptionalLabelsVisible_write.vi"/>
+			<Item Name="Plot_OptionalLabelsVisible_read.vi" Type="Property VI" URL="../Properties/Plot_OptionalLabelsVisible_read.vi"/>
+		</Item>
+		<Item Name="OptionalLinesVisible.Plot:OptionalLinesVisible" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">OptionalLinesVisible.Plot:OptionalLinesVisible</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:OptionalLinesVisible</Property>
+			<Item Name="Plot_OptionalLinesVisible_write.vi" Type="Property VI" URL="../Properties/Plot_OptionalLinesVisible_write.vi"/>
+			<Item Name="Plot_OptionalLinesVisible_read.vi" Type="Property VI" URL="../Properties/Plot_OptionalLinesVisible_read.vi"/>
+		</Item>
+		<Item Name="GridType.Plot:GridType" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">GridType.Plot:GridType</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:GridType</Property>
+			<Item Name="Plot_GridType_write.vi" Type="Property VI" URL="../Properties/Plot_GridType_write.vi"/>
+			<Item Name="Plot_GridType_read.vi" Type="Property VI" URL="../Properties/Plot_GridType_read.vi"/>
+		</Item>
+		<Item Name="Bounds.Plot:Bounds" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Bounds.Plot:Bounds</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:Bounds</Property>
+			<Item Name="Plot_Bounds_read.vi" Type="Property VI" URL="../Properties/Plot_Bounds_read.vi"/>
+		</Item>
+		<Item Name="Position.Plot:Position" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Position.Plot:Position</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:Position</Property>
+			<Item Name="Plot_Position_write.vi" Type="Property VI" URL="../Properties/Plot_Position_write.vi"/>
+			<Item Name="Plot_Position_read.vi" Type="Property VI" URL="../Properties/Plot_Position_read.vi"/>
+		</Item>
+		<Item Name="Blinking.Plot:Blinking" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Blinking.Plot:Blinking</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:Blinking</Property>
+			<Item Name="Plot_Blinking_write.vi" Type="Property VI" URL="../Properties/Plot_Blinking_write.vi"/>
+			<Item Name="Plot_Blinking_read.vi" Type="Property VI" URL="../Properties/Plot_Blinking_read.vi"/>
+		</Item>
+		<Item Name="Caption.Plot:Caption" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Caption.Plot:Caption</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot:Caption</Property>
+			<Item Name="Plot_Caption_read.vi" Type="Property VI" URL="../Properties/Plot_Caption_read.vi"/>
+		</Item>
+	</Item>
+	<Item Name="Support" Type="Folder">
+		<Item Name="Generate Plots.vi" Type="VI" URL="../Support/Generate Plots.vi"/>
+		<Item Name="Make Arrays right length.vi" Type="VI" URL="../Support/Make Arrays right length.vi"/>
+	</Item>
+	<Item Name="Data.ctl" Type="Ability VI" URL="../Data.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">Data</Property>
+	</Item>
+	<Item Name="State.ctl" Type="Ability VI" URL="../State.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">State</Property>
+	</Item>
+	<Item Name="XY Plot with Error Bars.vi" Type="Ability VI" URL="../XY Plot with Error Bars.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Facade</Property>
+	</Item>
+	<Item Name="Init.vi" Type="Ability VI" URL="../Init.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Init</Property>
+	</Item>
+	<Item Name="Y Errors" Type="Property Folder">
+		<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Y Errors</Property>
+		<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Y Errors</Property>
+		<Item Name="Y Errors Read.vi" Type="Property VI" URL="../Y Errors Read.vi"/>
+		<Item Name="Y Errors Write.vi" Type="Property VI" URL="../Y Errors Write.vi"/>
+	</Item>
+	<Item Name="X Errors" Type="Property Folder">
+		<Property Name="NI.LibItem.Prop.Identifier" Type="Str">X Errors</Property>
+		<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">X Errors</Property>
+		<Item Name="X Errors Read.vi" Type="Property VI" URL="../X Errors Read.vi"/>
+		<Item Name="X Errors Write.vi" Type="Property VI" URL="../X Errors Write.vi"/>
+	</Item>
+</XControl>

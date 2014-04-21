@@ -1,0 +1,108 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<XControl LVVersion="11008008">
+	<Property Name="NI.Lib.Description" Type="Str">Provides an XControl that implements a function generator, returning data as an analogue waveform. Automatically adjusts layout on resizing, shows or hides the axes scales, y=0 line and a current index marker.</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">%1#!#!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+J!!!*Q(C=T:5\&lt;BMR%)&lt;`*&amp;YA:21%=)!A$[BV/6@1&amp;83&amp;;6/K#L#FLD"85/0#J1[1:KYA_!:K!CB!(NJ]3^/S*;]N"$%#EZI6^R^SZN/1I+438EIH?I47$&lt;:&lt;`OV!O_NP(P9X_R-/`=XW18^TG'(@X^R"W00P^'&lt;1@[-/_D?&lt;T8&lt;&lt;0\L.JLE;]&lt;SH0EV^XFO``I=W1`8&lt;_:P"_BVE_*P^/&lt;+`0Q&lt;&lt;,@`:1.PTVZ"HVY0OU(`&amp;=69(OO-`MP[JZ`^(`Z([(WPN^?"DV\8`W[YS0SOH$%MM--&gt;-`3HL%DX2%TX2%TX2!TX1!TX1!TX1(&gt;X2(&gt;X2(&gt;X2$&gt;X1$&gt;X1$&gt;X13U=8ON#&amp;$F+30%G5"%U#**."5@*)?"+?B#@BY65*4]+4]#1]#1^4F0!E0!F0QJ0QM%Q*4]+4]#1]#1_B#EG7DAZ0QE.Y"4Q"4]!4]!1]J&amp;4!%Q!%S9,!12!Q&amp;$C$1=!4]!1]$"8Q"$Q"4]!4]/"7Q"0Q"$Q"4]$$EF+6+$2^2Y?(-(*Y("[(R_&amp;R?!ANB]@B=8A=(I?(&gt;(*Y("Y(QEHI"!&gt;"TC*HAP0C]$A]@-HB=8A=(I@(Y=&amp;6&gt;MB,:8K;PK0$9`!90!;0Q70Q%%)'D]&amp;D]"A]"A^B:@!90!;0Q70QE%I'D]&amp;D]"AA2F,3SQBG,$1G'9,"Q[?=&amp;CO\&amp;)8%3O]PC8*Y61_F[G&amp;4053KBU.VUV5X5X746)OP7F469KE71@8(K5+LQKAG56X=4^3;ZQJ&lt;9ANMDMWQ+4&lt;"RNCI8`L)%^@LN6;LF:&lt;,J2;,B?&lt;TO7;TG;&lt;4K3;4C=&lt;DM5;DU?YG_E4@81A$^^)F&gt;IZ^\NI0X\PW`=_O@@?\;U_R&amp;W_`-O],]S[Q=_RS\ZZZ2&lt;T4&lt;\`;.[^0SP@1_\8&gt;X%N0Y7\5=^X_O[6'@Q"F/"BP!!!!!!</Property>
+	<Property Name="NI.Lib.Version" Type="Str">1.0.1.1</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Property Name="NI.XClass.Flags" Type="Int">0</Property>
+	<Property Name="NI.XItem.DeclaredLeakProof" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Name" Type="Str">XControl 1</Property>
+	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
+	<Item Name="Properties" Type="Folder">
+		<Item Name="Show Scales" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.HelpTag" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Show Axes</Property>
+			<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Determines whether the scales on the graphical waveform display are visible or not.</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Show Scales</Property>
+			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+			<Item Name="Show Scales Read.vi" Type="Property VI" URL="../XControl/Properties/Show Scales Read.vi"/>
+			<Item Name="Show Scales Write.vi" Type="Property VI" URL="../XControl/Properties/Show Scales Write.vi"/>
+		</Item>
+		<Item Name="Show Y=0" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.HelpTag" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Show Y=0</Property>
+			<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Determines whether a dashed yellow line is drawn at the Y=0 level on the graphical waveform display</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Show Y=0</Property>
+			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+			<Item Name="Show Y=0 Read.vi" Type="Property VI" URL="../XControl/Properties/Show Y=0 Read.vi"/>
+			<Item Name="Show Y=0 Write.vi" Type="Property VI" URL="../XControl/Properties/Show Y=0 Write.vi"/>
+		</Item>
+		<Item Name="Waveform Settings" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.HelpTag" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Waveform Settings</Property>
+			<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Directly sets the waveform property - the items of the cluster correspond directly to the front panel controls.</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Waveform Settings</Property>
+			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+			<Item Name="Waveform Settings Read.vi" Type="Property VI" URL="../XControl/Properties/Waveform Settings Read.vi"/>
+			<Item Name="Waveform Settings Write.vi" Type="Property VI" URL="../XControl/Properties/Waveform Settings Write.vi"/>
+		</Item>
+		<Item Name="Waveform array" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.HelpTag" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Waveform array</Property>
+			<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Returns the waveform data as a 1D array of doubles - thereby losing the timing data. read only</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Waveform array</Property>
+			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+			<Item Name="Waveform array Read.vi" Type="Property VI" URL="../XControl/Properties/Waveform array Read.vi"/>
+		</Item>
+		<Item Name="Show Current Location" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.HelpTag" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Show Current Location</Property>
+			<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Determines whether or not to display a marker on the graphical waveform display at an index determined by the Current Position property.</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Show Current Location</Property>
+			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+			<Item Name="Show Current Location Read.vi" Type="Property VI" URL="../XControl/Properties/Show Current Location Read.vi"/>
+			<Item Name="Show Current Location Write.vi" Type="Property VI" URL="../XControl/Properties/Show Current Location Write.vi"/>
+		</Item>
+		<Item Name="Current Position" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.HelpTag" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Current Position</Property>
+			<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the index position of the current position marker. If the Show Current Location property is false, or the index position is out of range, setting this property will result in an Error 1</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Current Position</Property>
+			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+			<Item Name="Current Position Read.vi" Type="Property VI" URL="../XControl/Properties/Current Position Read.vi"/>
+			<Item Name="Current Position Write.vi" Type="Property VI" URL="../XControl/Properties/Current Position Write.vi"/>
+		</Item>
+		<Item Name="Waveform Timing" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Waveform Timing</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Waveform Timing</Property>
+			<Item Name="Waveform Timing Read.vi" Type="Property VI" URL="../XControl/Properties/Waveform Timing Read.vi"/>
+			<Item Name="Waveform Timing Write.vi" Type="Property VI" URL="../XControl/Properties/Waveform Timing Write.vi"/>
+		</Item>
+	</Item>
+	<Item Name="Controls" Type="Folder">
+		<Item Name="State.ctl" Type="Ability VI" URL="../XControl/Controls/State.ctl">
+			<Property Name="NI.XItem.Name" Type="Str">State</Property>
+		</Item>
+		<Item Name="Data.ctl" Type="Ability VI" URL="../XControl/Controls/Data.ctl">
+			<Property Name="NI.XItem.Name" Type="Str">Data</Property>
+		</Item>
+		<Item Name="Volatile State Ops.ctl" Type="VI" URL="../XControl/Controls/Volatile State Ops.ctl"/>
+	</Item>
+	<Item Name="Subvis" Type="Folder">
+		<Item Name="Draw Waveforms.vi" Type="VI" URL="../XControl/subvis/Draw Waveforms.vi"/>
+		<Item Name="Function Types.ctl" Type="VI" URL="../XControl/subvis/Function Types.ctl"/>
+		<Item Name="FP Controls.ctl" Type="VI" URL="../XControl/subvis/FP Controls.ctl"/>
+		<Item Name="Draw Current Position Marker.vi" Type="VI" URL="../XControl/subvis/Draw Current Position Marker.vi"/>
+		<Item Name="Make Y=0 waveform.vi" Type="VI" URL="../XControl/subvis/Make Y=0 waveform.vi"/>
+		<Item Name="Update Controls State.vi" Type="VI" URL="../XControl/subvis/Update Controls State.vi"/>
+		<Item Name="Draw Y=0 Line.vi" Type="VI" URL="../XControl/subvis/Draw Y=0 Line.vi"/>
+		<Item Name="Draw Axes.vi" Type="VI" URL="../XControl/subvis/Draw Axes.vi"/>
+		<Item Name="Sort out Display from State.vi" Type="VI" URL="../XControl/subvis/Sort out Display from State.vi"/>
+		<Item Name="Layout Controls.vi" Type="VI" URL="../XControl/subvis/Layout Controls.vi"/>
+		<Item Name="Calculate Waevform.vi" Type="VI" URL="../XControl/subvis/Calculate Waevform.vi"/>
+		<Item Name="Store Display State.vi" Type="VI" URL="../XControl/subvis/Store Display State.vi"/>
+		<Item Name="Hold refnums open.vi" Type="VI" URL="../XControl/subvis/Hold refnums open.vi"/>
+	</Item>
+	<Item Name="Facade.vi" Type="Ability VI" URL="../XControl/Facade.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Facade</Property>
+	</Item>
+	<Item Name="Init.vi" Type="Ability VI" URL="../XControl/Init.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Init</Property>
+	</Item>
+	<Item Name="Waveform State.ctl" Type="VI" URL="../XControl/Controls/Waveform State.ctl"/>
+	<Item Name="Uninit.vi" Type="Ability VI" URL="../XControl/Uninit.vi">
+		<Property Name="NI.XItem.Name" Type="Str">UnInit</Property>
+	</Item>
+</XControl>

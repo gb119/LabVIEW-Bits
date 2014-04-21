@@ -1,0 +1,62 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<XControl LVVersion="8608001">
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">#'#!!1!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+L!!!*Q(C=T:1`&lt;F."%)&gt;`]#AIYS*R#@)6ZA!U0E!;&gt;V15=Q5,U6$[!B44=!"@A-)3*RC*6V%AX+;UI%O&amp;_8;T&gt;B,&lt;[!G"IOR[HPV_-TPT\2_P6.NT[:E?I'X`V(&lt;_[^0N]@BXQ&amp;VJOZ=D@X&amp;V.V]H`$&gt;SV^)=_&lt;PK;OF0_KOTW^Y]$PX&gt;&lt;@W&gt;(@K\6K1^\PHXQX:/\)[`/^5/RH@&lt;?\0M`C&lt;`).`A`)&lt;7:X"^B`:H=(_(T]=_`Z&amp;`Y0Q.`(`_N&lt;W`_`*CO`XR5(:&lt;^5G&gt;*::99)[:SB3XC:\IC:\IC:\IA2\IA2\IA2\IDO\IDO\IDO\IBG\IBG\IBG\IN;-,8?B#"SEJHB2+EC9*EG"1F$Q3HI1HY5FY?&amp;8#E`!E0!F0QE/)%J[%*_&amp;*?")?BCHB38A3HI1HY3&amp;6*=H;U?&amp;*?%CPA#@A#8A#HI#(EAJY!I#A7*!Y3!+'!G@Q)_!*?!)?@CLA#8A#HI!HY-'NA#@A#8A#HI#()866IN+5DAY0;?4Q/$Q/D]0D]*";$I`$Y`!Y0!Y0Z?4Q/$Q/B&amp;0131[#H%&amp;/A00C]$A]@-HB=8A=(I@(Y=&amp;6&gt;]DLSB3;UN(B-8A-(I0(Y$&amp;Y3#'$R_!R?!Q?AY?U-HA-(I0(Y$&amp;Y+#7$R_!R?!Q1ISDF:31T"BJ"BG$Q]+GHR?IO237RWOP@6OWAKBV!N9/F&gt;G$5$I,;"KNNH.K'K#WUWA+K,9T;B.5GIA;I6FANI6KA.DT8W!J&lt;9ANMDMWQ+4&lt;"2G8I@Q\=&lt;$:;L^&gt;;L6:;,J&gt;;,";;T_?;T7;;4K?;4#9;D5&lt;\;_!F@8]B(.^,:^,:I9WP8`8DKS`^_/00@PT[&lt;4^_]['`O.LU&amp;^__^O@@0VW7G000\S\,\[)68YGJM76-'6NS`.LW*@&lt;_P@19\E9^V&gt;W\HD8[$2$?5_-!!!!!</Property>
+	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
+	<Property Name="NI.XClass.Flags" Type="Int">0</Property>
+	<Property Name="NI.XItem.DeclaredLeakProof" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Name" Type="Str">XControl 1</Property>
+	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
+	<Item Name="Support" Type="Folder">
+		<Item Name="Make Polar Plot.vi" Type="VI" URL="../Support/Make Polar Plot.vi"/>
+		<Item Name="Vector Draw Polar Grids.vi" Type="VI" URL="../Support/Vector Draw Polar Grids.vi"/>
+		<Item Name="Polar Plot.vi" Type="VI" URL="../Support/Polar Plot.vi"/>
+		<Item Name="Plot Polar Plot Data.vi" Type="VI" URL="../Support/Plot Polar Plot Data.vi"/>
+		<Item Name="Calculate Vector Data.vi" Type="VI" URL="../Support/Calculate Vector Data.vi"/>
+		<Item Name="Plot Single Polar Point.vi" Type="VI" URL="../Support/Plot Single Polar Point.vi"/>
+		<Item Name="Draw Vector Polar Plot.vi" Type="VI" URL="../Support/Draw Vector Polar Plot.vi"/>
+		<Item Name="Plot XY.vi" Type="VI" URL="../Support/Plot XY.vi"/>
+		<Item Name="Draw Cartesian Axes.vi" Type="VI" URL="../Support/Draw Cartesian Axes.vi"/>
+		<Item Name="Draw Axes.vi" Type="VI" URL="../Support/Draw Axes.vi"/>
+		<Item Name="Plot Multi-XY.vi" Type="VI" URL="../Support/Plot Multi-XY.vi"/>
+		<Item Name="Draw XY Data.vi" Type="VI" URL="../Support/Draw XY Data.vi"/>
+		<Item Name="Preserve Volatile State.vi" Type="VI" URL="../Support/Preserve Volatile State.vi"/>
+		<Item Name="Adjust cosmetics for co-ordinate system.vi" Type="VI" URL="../Support/Adjust cosmetics for co-ordinate system.vi"/>
+		<Item Name="Check Waveforms.vi" Type="VI" URL="../Support/Check Waveforms.vi"/>
+		<Item Name="Set Waveform formats.vi" Type="VI" URL="../Support/Set Waveform formats.vi"/>
+	</Item>
+	<Item Name="Properties" Type="Folder">
+		<Item Name="Set Display Format and units Method.vi" Type="Method VI" URL="../Properties/Set Display Format and units Method.vi"/>
+		<Item Name="Show Current Position" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Show Current Position</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Show Current Position</Property>
+			<Item Name="Show Current Position Read.vi" Type="Property VI" URL="../Properties/Show Current Position Read.vi"/>
+			<Item Name="Show Current Position Write.vi" Type="Property VI" URL="../Properties/Show Current Position Write.vi"/>
+		</Item>
+		<Item Name="Current Position" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Current Position</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Current Position</Property>
+			<Item Name="Current Position Read.vi" Type="Property VI" URL="../Properties/Current Position Read.vi"/>
+			<Item Name="Current Position Write.vi" Type="Property VI" URL="../Properties/Current Position Write.vi"/>
+		</Item>
+		<Item Name="Mode" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Mode</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Mode</Property>
+			<Item Name="Mode Read.vi" Type="Property VI" URL="../Properties/Mode Read.vi"/>
+			<Item Name="Mode Write.vi" Type="Property VI" URL="../Properties/Mode Write.vi"/>
+		</Item>
+	</Item>
+	<Item Name="Vector Facade.vi" Type="Ability VI" URL="../Vector Facade.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Facade</Property>
+	</Item>
+	<Item Name="Vector Init.vi" Type="Ability VI" URL="../Vector Init.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Init</Property>
+	</Item>
+	<Item Name="Vector State.ctl" Type="Ability VI" URL="../Vector State.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">State</Property>
+	</Item>
+	<Item Name="Vector Data.ctl" Type="Ability VI" URL="../Vector Data.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">Data</Property>
+	</Item>
+</XControl>

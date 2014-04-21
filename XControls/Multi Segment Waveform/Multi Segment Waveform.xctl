@@ -1,0 +1,85 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<XControl LVVersion="12008004">
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*J!!!*Q(C=T:3^N2J"$)7P@?RTH.+"$Z3A!JT1!CZ"_5;E,S1E61OU1!NKA29IQ)(((Y0YM2^`RA3??6LA8IXU\?S]F@LY)HX3`@(DVHC&amp;XS[0E`^^0^LP(Y`\@YTS?Y^T@\F=PG-Y]Z=6V`XBND_UY:9`X/Y`(#^0_5.L&amp;R+/`E'`YJ`E]Y2*_:_PD8:B`Y@4[P;-@UC9N*P_J&amp;XT?]+E0?_4509V`W#XF`R``+.`&gt;\S^OY%\YVNL0V]6?Y10%H7**)*QQADU2%`U2%`U2%`U1!`U1!`U1!^U2X&gt;U2X&gt;U2X&gt;U1T&gt;U1T&gt;U1T@U0N'&amp;,H3BAZ1U4RIF2:-#34)I3CY*4]+4]#1]`&amp;4#E`!E0!F0QE/+%J[%*_&amp;*?")?FCHB38A3HI1HY;&amp;5*]E_U?&amp;*?#CPA#@A#8A#HI#(FAJY!I#A76!Y+!+'!D0Y%P!%0!%08R8Q"$Q"4]!4]'!LY!FY!J[!*_"B3&gt;_6[$3\C1Y0:?4Q/$Q/D]0D]&amp;";$I`$Y`!Y0!Y0\?4Q/$Q/B.01+1[#H%6/AP0$Y8&amp;Y_*$$Y`!Y0![0QY06HZ$XH&gt;H2\#9[0!;0Q70Q'$Q'$S6E]"A]"I`"9`"16A;0Q70Q'$Q'$[VE]"A]"I]"9D3FP9RCRE)DS2!-(P\[;&lt;(_F++47*^3(6\6I61&gt;.N5B5BU/V5.805T61V*NPGJ46:OFWA46T;GA64#K*KL&amp;OU2NO7[).&lt;%C&amp;M3=G"&amp;49ES-&gt;EN@H,D&gt;&lt;L8:&lt;,2?L\6;L&lt;29,$3@TT7&lt;T43&gt;4D5?DT5;D9ZPIK`-YQNB`VZ[Y`MDM=N^Z'8XF_-`?$@KI]\PD4X["1&amp;58%)!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">302022660</Property>
+	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Property Name="NI.XClass.Flags" Type="Int">0</Property>
+	<Property Name="NI.XItem.DeclaredLeakProof" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Name" Type="Str">XControl 1</Property>
+	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
+	<Item Name="Support" Type="Folder">
+		<Item Name="Type Defs" Type="Folder">
+			<Item Name="Formatting Refs.ctl" Type="VI" URL="../Support/Type Defs/Formatting Refs.ctl"/>
+		</Item>
+		<Item Name="Build Preview.vi" Type="VI" URL="../Support/Build Preview.vi"/>
+		<Item Name="Build Preview for Rate.vi" Type="VI" URL="../Support/Build Preview for Rate.vi"/>
+		<Item Name="Build Setup Arrays.vi" Type="VI" URL="../Support/Build Setup Arrays.vi"/>
+		<Item Name="Create Waveform and Preview.vi" Type="VI" URL="../Support/Create Waveform and Preview.vi"/>
+		<Item Name="Draw Current Position Marker.vi" Type="VI" URL="../Support/Draw Current Position Marker.vi"/>
+		<Item Name="Draw Waveform.vi" Type="VI" URL="../Support/Draw Waveform.vi"/>
+		<Item Name="Draw y=0 line.vi" Type="VI" URL="../Support/Draw y=0 line.vi"/>
+		<Item Name="Make Up Setup Plot.vi" Type="VI" URL="../Support/Make Up Setup Plot.vi"/>
+		<Item Name="Preserve Volatile State.vi" Type="VI" URL="../Support/Preserve Volatile State.vi"/>
+		<Item Name="Set Control Appearance.vi" Type="VI" URL="../Support/Set Control Appearance.vi"/>
+		<Item Name="Setup Loop Iterator.vi" Type="VI" URL="../Support/Setup Loop Iterator.vi"/>
+		<Item Name="Update Format Labels.vi" Type="VI" URL="../Support/Update Format Labels.vi"/>
+	</Item>
+	<Item Name="Properties" Type="Folder">
+		<Item Name="Set Display Format and Precision Method.vi" Type="Method VI" URL="../Properties/Set Display Format and Precision Method.vi"/>
+		<Item Name="Draw Current Location" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Draw Current Location</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Draw Current Location</Property>
+			<Item Name="Draw Current Location Read.vi" Type="Property VI" URL="../Properties/Draw Current Location Read.vi"/>
+			<Item Name="Draw Current Location Write.vi" Type="Property VI" URL="../Properties/Draw Current Location Write.vi"/>
+		</Item>
+		<Item Name="Current Location" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Current Location</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Current Location</Property>
+			<Item Name="Current Location Read.vi" Type="Property VI" URL="../Properties/Current Location Read.vi"/>
+			<Item Name="Current Location Write.vi" Type="Property VI" URL="../Properties/Current Location Write.vi"/>
+		</Item>
+		<Item Name="Draw y=0 Line" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Draw y=0 Line</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Draw y=0 Line</Property>
+			<Item Name="Draw y=0 Line Read.vi" Type="Property VI" URL="../Properties/Draw y=0 Line Read.vi"/>
+			<Item Name="Draw y=0 Line Write.vi" Type="Property VI" URL="../Properties/Draw y=0 Line Write.vi"/>
+		</Item>
+		<Item Name="Get Locations" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Get Locations</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Get Locations</Property>
+			<Item Name="Get Locations Read.vi" Type="Property VI" URL="../Properties/Get Locations Read.vi"/>
+		</Item>
+		<Item Name="Measure On" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Measure On</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Measure On</Property>
+			<Item Name="Measure On Read.vi" Type="Property VI" URL="../Properties/Measure On Read.vi"/>
+		</Item>
+		<Item Name="Rate Mode" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Rate Mode</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Rate Mode</Property>
+			<Item Name="Rate Mode Read 2.vi" Type="Property VI" URL="../Properties/Rate Mode Read 2.vi"/>
+			<Item Name="Rate Mode Write.vi" Type="Property VI" URL="../Properties/Rate Mode Write.vi"/>
+		</Item>
+		<Item Name="Current Y Value" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Current Y Value</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Current Y Value</Property>
+			<Item Name="Current Y Value Read.vi" Type="Property VI" URL="../Properties/Current Y Value Read.vi"/>
+			<Item Name="Current Y Value Write.vi" Type="Property VI" URL="../Current Y Value Write.vi"/>
+		</Item>
+	</Item>
+	<Item Name="Data.ctl" Type="Ability VI" URL="../Data.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">Data</Property>
+	</Item>
+	<Item Name="State.ctl" Type="Ability VI" URL="../State.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">State</Property>
+	</Item>
+	<Item Name="Facade.vi" Type="Ability VI" URL="../Facade.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Facade</Property>
+	</Item>
+	<Item Name="Init.vi" Type="Ability VI" URL="../Init.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Init</Property>
+	</Item>
+</XControl>
