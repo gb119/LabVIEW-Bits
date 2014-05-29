@@ -5,11 +5,11 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">302022660</Property>
 	<Property Name="NI.Lib.Version" Type="Str">0.0.0.0</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
-	<Property Name="NI.XClass.Loc.Name" Type="Str"></Property>
-	<Property Name="NI.XClass.Name" Type="Str"></Property>
+	<Property Name="NI.XClass.Loc.Name" Type="Str">Open G Delete Elements from Array</Property>
+	<Property Name="NI.XClass.Name" Type="Str">Open G Delete Elements from Array</Property>
 	<Property Name="NI.XItem.DeclaredLeakProof" Type="Bool">false</Property>
 	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
-	<Property Name="NI.XItem.Name" Type="Str"></Property>
+	<Property Name="NI.XItem.Name" Type="Str">Open G Delete Elements from Array</Property>
 	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
 	<Property Name="XNode_Manager" Type="Str">1.5</Property>
 	<Item Name="State.ctl" Type="Ability VI" URL="../State.ctl">

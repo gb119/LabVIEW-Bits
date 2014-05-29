@@ -18,13 +18,13 @@ string[4] = [3]
 string[-4:-2] = [4,3]</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+#!!!*Q(C=V:1RDB."%%7`6UB,O*9)#:!F%N+36C,X%:C=K$*CJSO2_!I6LL0V&amp;2RQA&lt;K#L_!&lt;,/:.&lt;W&amp;'\)Z(3";)&lt;N@-^+`OKN=V\:&amp;;?SW^UP`?DF0N`&gt;G'`_SKXN`@GAW@8`!@HU;D`L(V%`GH_#`J@T:\[(]J6/WPPT4K9[E`N`&amp;]`;]SN&amp;\$96'?NF`F0-5@V'2E`:$KN`SD::COTU4\V_@`!OVOT$'Z_4^MYQCTFAR,,$$(40W39[)H?K)H?K)H?K!(?K!(?K!(OK-\OK-\OK-\OK%&lt;OK%&lt;OK%&lt;?OPI1B?[U%&amp;+EC?*EK"*A'1S+%IO#5`#E`!E0!S6]#1]#5`#E`!Q21F0QJ0Q*$Q*$]O5]#1]#5`#E`!1KJ&amp;E[_DQ*$S%6]!4]!1]!5`!1UI&amp;0!&amp;!E#Q)(!1"1Y%T?!BY!J[!BU=&amp;0!&amp;0Q"0Q"$SY&amp;@!%0!&amp;0Q"0QM+26*2J.X^(B)9Q=(I@(Y8&amp;Y("Z#S_&amp;R?"Q?B]@B):U=(I@(A8!3/M&amp;"E,0)G?!-("[(BZM=(I@(Y8&amp;Y("Z=\1VZKUR0UX&gt;U?!Q?A]@A-8A-(E,)Y$&amp;Y$"[$R_!BL!Q?A]@A-8A-(F,*Y$&amp;Y$"Y$R%B+?BH"D)8'*%-Q?0CVUW,N,55DM&gt;&lt;&lt;PU&gt;V5&amp;5(5(7Q6!&gt;'&gt;2"5,VDVYF1P2&amp;6I61&amp;6B6&amp;N7,52&amp;;!KM3KA;K)/80@9$NNC;WS&amp;&gt;&gt;A37W$T@OG&amp;*RY/"_XX?_VW/WWX7[X8;[V7+X6&gt;J_6SK=6CI@F]@PI-P+/@0ADHPUMY:^_/XW?&lt;$YP:ZH&lt;4\PWYVU^WB&gt;VI&gt;P`R_P(OZF0X=00WS`XH.^W$LB_`VJS*&lt;`B:BL`T&lt;&gt;36BHZK^!/6DDPX!!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">302022660</Property>
-	<Property Name="NI.Lib.Version" Type="Str">0.0.0.0</Property>
+	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
-	<Property Name="NI.XClass.Loc.Name" Type="Str"></Property>
-	<Property Name="NI.XClass.Name" Type="Str"></Property>
+	<Property Name="NI.XClass.Loc.Name" Type="Str">OpenG Slive 1D Array</Property>
+	<Property Name="NI.XClass.Name" Type="Str">OpenG Slive 1D Array</Property>
 	<Property Name="NI.XItem.DeclaredLeakProof" Type="Bool">false</Property>
 	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
-	<Property Name="NI.XItem.Name" Type="Str"></Property>
+	<Property Name="NI.XItem.Name" Type="Str">OpenG Slive 1D Array</Property>
 	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
 	<Property Name="XNode_Manager" Type="Str">1.5</Property>
 	<Item Name="State.ctl" Type="Ability VI" URL="../State.ctl">

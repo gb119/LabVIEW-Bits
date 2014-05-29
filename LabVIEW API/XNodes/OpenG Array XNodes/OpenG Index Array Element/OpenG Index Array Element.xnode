@@ -1,15 +1,15 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <XNode LVVersion="12008004">
-	<Property Name="NI.Lib.Description" Type="Str">This polymorphic VI returns the &lt;B&gt;elements&lt;/B&gt; of a 1D or 2D &lt;B&gt;array&lt;/B&gt; at the corresponding &lt;B&gt;indices&lt;/B&gt;.  For 2D arrays, wire both the &lt;B&gt;indices 0&lt;/B&gt; and &lt;B&gt;indices 1&lt;/B&gt; inputs to specify the desired &lt;B&gt;elements&lt;/B&gt;.</Property>
+	<Property Name="NI.Lib.Description" Type="Str">This XNode returns the &lt;B&gt;elements&lt;/B&gt; of a 1D or 2D &lt;B&gt;array&lt;/B&gt; at the corresponding &lt;B&gt;indices&lt;/B&gt;.  For 2D arrays, wire both the &lt;B&gt;indices 0&lt;/B&gt; and &lt;B&gt;indices 1&lt;/B&gt; inputs to specify the desired &lt;B&gt;elements&lt;/B&gt;.</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+9!!!*Q(C=X:3RDB-R%)&lt;`221)+)B%AU3")K7AHF@9_LJU6]]LJ%W"2&amp;L+K?D4X06JLLBS8C%01".25#+&amp;&lt;RVH4S'X'Y2!1NC:X@5`HJEPNG7JN'@35_UPN&gt;FI[`RD5YN`^G#D`E=SH-90_0P[PRH`H^=@WY(K(^T"Q5XN;T`GH`5YX80@R_R\``&amp;::DV-XI`[,]4X`)0V@Z(`^+_?]``E0_-@]F_)(VD`=`Z4`Q8_#YV\9(FRUF^O5K0O)M)3#]QR5_@;*XKC*XKC*XKC"XKA"XKA"XKA/\KD/\KD/\KD'\KB'\KB'\KBFYYO&gt;+%,H66*CC?&amp;EK2*AG1S+%I?#5`#E`!E0!S6]#1]#5`#E`!Q21F0QJ0Q*$Q*$W&amp;+?"+?B#@B38B)65CS&gt;(2Y%B\3+_!*?!+?A#@AI;1#HA!A+"9E$J+!I=!:@!1]!5`!Q[=#HI!HY!FY!B\=#HA#HI!HY!FY##GL%I7G[_DQE%9/D]0D]$A]$A_JZ@!Y0![0Q_0Q5%Y/D]0D1$A&amp;H?1AS!FS*DA$B]@BY37(R_&amp;R?"Q?BQ&gt;8W3%P+^02&gt;"U&gt;(I0(Y$&amp;Y$"[$BR1S?!Q?A]@A-8B)+Y0(Y$&amp;Y$"[$BV)S?!Q?A]=!-9J38E9S)^#9:!A'$\^S7KTM5B13+VWKBV@V5+I?.N6$J(IY6$&gt;&gt;&gt;4.6.UFV]658687R6"&gt;"^=_J1KP#K":2$?YG;M&gt;TCWWQ.&lt;&lt;#&amp;NA=;\%J.OF#``$%X7[H\8;LT7;D^8KNV7KFR7+B_8SONGUVH5YVG5RU&lt;/`IB^9=\[5FXZ_`KPHU#HO,P7&lt;]\@!?'X^IV8T]LG;JFW_7?P(F^P\Z_ZMLL-7O'&gt;^VOJL&lt;?T5X6RDT&lt;[Y:XX5R;A\XUL^Q._K*$O^_D8Y!DB9MMA!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">302022660</Property>
-	<Property Name="NI.Lib.Version" Type="Str">0.0.0.0</Property>
+	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
-	<Property Name="NI.XClass.Loc.Name" Type="Str"></Property>
-	<Property Name="NI.XClass.Name" Type="Str"></Property>
+	<Property Name="NI.XClass.Loc.Name" Type="Str">OpenG Index Array Element</Property>
+	<Property Name="NI.XClass.Name" Type="Str">OpenG Index Array Element</Property>
 	<Property Name="NI.XItem.DeclaredLeakProof" Type="Bool">false</Property>
 	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
-	<Property Name="NI.XItem.Name" Type="Str"></Property>
+	<Property Name="NI.XItem.Name" Type="Str">OpenG Index Array Element</Property>
 	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
 	<Property Name="XNode_Manager" Type="Str">1.5</Property>
 	<Item Name="State.ctl" Type="Ability VI" URL="../State.ctl">

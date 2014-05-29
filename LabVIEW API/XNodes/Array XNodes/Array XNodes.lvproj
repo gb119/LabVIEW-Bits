@@ -23,6 +23,13 @@
 				<Item Name="image.bmp" Type="Document" URL="../Array Dimension Array/image.bmp"/>
 				<Item Name="scalar template.vi" Type="VI" URL="../Array Dimension Array/scalar template.vi"/>
 			</Item>
+			<Item Name="Array Size and Index" Type="Folder">
+				<Item Name="Array Size and Index.xnode" Type="XNode" URL="../Array Size and Index/Array Size and Index.xnode"/>
+			</Item>
+			<Item Name="Array Size Unbuindle" Type="Folder">
+				<Item Name="Array Size Unbundle.xnode" Type="XNode" URL="../Array Size Unbuindle/Array Size Unbundle.xnode"/>
+				<Item Name="Array Size Unbundle.xnode.bak" Type="Document" URL="../Array Size Unbuindle/Array Size Unbundle.xnode.bak"/>
+			</Item>
 			<Item Name="ArrayDimension" Type="Folder">
 				<Item Name="ArrayDimension.xnode" Type="XNode" URL="../ArrayDimension/ArrayDimension.xnode"/>
 				<Item Name="Array Dimension.lvproj" Type="Document" URL="../ArrayDimension/Array Dimension.lvproj"/>
@@ -54,6 +61,12 @@
 				<Item Name="image.bmp" Type="Document" URL="../Minimum Array Size/image.bmp"/>
 				<Item Name="Min_size_Template.vi" Type="VI" URL="../Minimum Array Size/Min_size_Template.vi"/>
 			</Item>
+			<Item Name="Shuffle Array" Type="Folder">
+				<Item Name="Shuffle Array.xnode" Type="XNode" URL="../Shuffle Array/Shuffle Array.xnode"/>
+				<Item Name="Shuffle Array 1D Template.vi" Type="VI" URL="../Shuffle Array/Shuffle Array 1D Template.vi"/>
+				<Item Name="Shuffle Array 2D Template.vi" Type="VI" URL="../Shuffle Array/Shuffle Array 2D Template.vi"/>
+				<Item Name="Test Shuffle Array.vi" Type="VI" URL="../Shuffle Array/Test Shuffle Array.vi"/>
+			</Item>
 			<Item Name="Unindex and unbundle" Type="Folder">
 				<Item Name="Unindex and Unbundle.xnode" Type="XNode" URL="../Unindex and unbundle/Unindex and Unbundle.xnode"/>
 				<Item Name="dir.mnu" Type="Document" URL="../Unindex and unbundle/dir.mnu"/>
@@ -61,9 +74,6 @@
 				<Item Name="image.gif" Type="Document" URL="../Unindex and unbundle/image.gif"/>
 				<Item Name="Unidenx and undbundle template.vi" Type="VI" URL="../Unindex and unbundle/Unidenx and undbundle template.vi"/>
 				<Item Name="Unindex and Unbundle.lvproj" Type="Document" URL="../Unindex and unbundle/Unindex and Unbundle.lvproj"/>
-			</Item>
-			<Item Name="Array Size and Index" Type="Folder">
-				<Item Name="Array Size and Index.xnode" Type="XNode" URL="../Array Size and Index/Array Size and Index.xnode"/>
 			</Item>
 			<Item Name="Array XNodes.png" Type="Document" URL="../Array XNodes.png"/>
 			<Item Name="LICENSE.txt" Type="Document" URL="../LICENSE.txt"/>
@@ -75,11 +85,7 @@
 				<Item Name="VariantType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/VariantDataType/VariantType.lvlib"/>
 				<Item Name="NI_XNodeSupport.lvlib" Type="Library" URL="/&lt;vilib&gt;/XNodeSupport/NI_XNodeSupport.lvlib"/>
 				<Item Name="LVPositionTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPositionTypeDef.ctl"/>
-				<Item Name="TRef Traverse for References.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef Traverse for References.vi"/>
-				<Item Name="TRef TravTarget.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef TravTarget.ctl"/>
-				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
 				<Item Name="LVPointTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPointTypeDef.ctl"/>
-				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
 				<Item Name="Read BMP File.vi" Type="VI" URL="/&lt;vilib&gt;/picture/bmp.llb/Read BMP File.vi"/>
 				<Item Name="Read BMP File Data.vi" Type="VI" URL="/&lt;vilib&gt;/picture/bmp.llb/Read BMP File Data.vi"/>
 				<Item Name="Read BMP Header Info.vi" Type="VI" URL="/&lt;vilib&gt;/picture/bmp.llb/Read BMP Header Info.vi"/>
@@ -98,14 +104,16 @@
 				<Item Name="Draw 4-Bit Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw 4-Bit Pixmap.vi"/>
 				<Item Name="Draw 8-Bit Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw 8-Bit Pixmap.vi"/>
 				<Item Name="Draw 1-Bit Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw 1-Bit Pixmap.vi"/>
+				<Item Name="TRef TravTarget.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef TravTarget.ctl"/>
+				<Item Name="TRef Traverse for References.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef Traverse for References.vi"/>
+				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
+				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
 				<Item Name="LVNumericRepresentation.ctl" Type="VI" URL="/&lt;vilib&gt;/Numeric/LVNumericRepresentation.ctl"/>
 			</Item>
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Scripting Tools.lvlib" Type="Library" URL="/&lt;userlib&gt;/_LAVAcr/Scripting Tools/Scripting Tools.lvlib"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
-			<Item Name="Shuffle Array 1D Template.vi" Type="VI" URL="../Shuffle Array/Shuffle Array 1D Template.vi"/>
-			<Item Name="Shuffle Array 2D Template.vi" Type="VI" URL="../Shuffle Array/Shuffle Array 2D Template.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Array Tools Zip" Type="Zip File">
