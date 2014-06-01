@@ -29,7 +29,7 @@
 			<Item Name="Connect Control to Connector Pane Terminal.vi" Type="VI" URL="../Public/Connect Control to Connector Pane Terminal.vi"/>
 			<Item Name="Set Connector Pane Pattern.vi" Type="VI" URL="../Public/Set Connector Pane Pattern.vi"/>
 			<Item Name="Con Pane Terminal Detail.ctl" Type="VI" URL="../Public/Con Pane Terminal Detail.ctl"/>
-			<Item Name="Get Connector Pane Ref.vi" Type="VI" URL="/&lt;userlib&gt;/_LAVAcr/Scripting Tools/Public/Get Connector Pane Ref.vi"/>
+			<Item Name="Get Connector Pane Ref.vi" Type="VI" URL="../Public/Get Connector Pane Ref.vi"/>
 			<Item Name="Get Connector Pane Details.vi" Type="VI" URL="../Public/Get Connector Pane Details.vi"/>
 			<Item Name="Find Control Index in ConPane.vi" Type="VI" URL="../Public/Find Control Index in ConPane.vi"/>
 		</Item>
@@ -278,15 +278,15 @@
 				<Item Name="XPropertyFolder reference.vi" Type="VI" URL="../Public/Create LVObject references/Polymorphs/XPropertyFolder reference.vi"/>
 				<Item Name="XYGraph reference.vi" Type="VI" URL="../Public/Create LVObject references/Polymorphs/XYGraph reference.vi"/>
 			</Item>
-			<Item Name="Create a constant from terminal.vi" Type="VI" URL="/&lt;userlib&gt;/_LAVAcr/Scripting Tools/Public/Create a constant from terminal.vi"/>
-			<Item Name="Create a constant from variant.vi" Type="VI" URL="/&lt;userlib&gt;/_LAVAcr/Scripting Tools/Public/Create a constant from variant.vi"/>
-			<Item Name="Create a control from variant.vi" Type="VI" URL="/&lt;userlib&gt;/_LAVAcr/Scripting Tools/Public/Create a control from variant.vi"/>
+			<Item Name="Create a constant from terminal.vi" Type="VI" URL="../Public/Create a constant from terminal.vi"/>
+			<Item Name="Create a constant from variant.vi" Type="VI" URL="../Public/Create a constant from variant.vi"/>
+			<Item Name="Create a control from variant.vi" Type="VI" URL="../Public/Create a control from variant.vi"/>
 			<Item Name="Create LVObject Reference.vi" Type="VI" URL="../Public/Create LVObject references/Create LVObject Reference.vi"/>
 		</Item>
 		<Item Name="Wiring" Type="Folder">
-			<Item Name="Wire 2 terminal function.vi" Type="VI" URL="/&lt;userlib&gt;/_LAVAcr/Scripting Tools/Public/Wire 2 terminal function.vi"/>
+			<Item Name="Wire 2 terminal function.vi" Type="VI" URL="../Public/Wire 2 terminal function.vi"/>
 			<Item Name="Wire 3 terminal function.vi" Type="VI" URL="../Public/Wire 3 terminal function.vi"/>
-			<Item Name="Wire n terminal function.vi" Type="VI" URL="/&lt;userlib&gt;/_LAVAcr/Scripting Tools/Public/Wire n terminal function.vi"/>
+			<Item Name="Wire n terminal function.vi" Type="VI" URL="../Public/Wire n terminal function.vi"/>
 			<Item Name="Wire XNode Terms by Tag.vi" Type="VI" URL="../Public/Wire XNode Terms by Tag.vi"/>
 			<Item Name="Tidy Wire Up.vi" Type="VI" URL="../Public/Tidy Wire Up.vi"/>
 			<Item Name="Make 1 wire.vi" Type="VI" URL="../Public/Make 1 wire.vi"/>
@@ -315,7 +315,7 @@
 		<Item Name="Copy Control" Type="Folder">
 			<Item Name="Copy-Paste.vi" Type="VI" URL="../Public/Copy-Paste.vi"/>
 		</Item>
-		<Item Name="Delete LV Object.vi" Type="VI" URL="/&lt;userlib&gt;/_LAVAcr/Scripting Tools/Public/Delete LV Object.vi"/>
+		<Item Name="Delete LV Object.vi" Type="VI" URL="../Public/Delete LV Object.vi"/>
 		<Item Name="Is Object Selected.vi" Type="VI" URL="../Public/Is Object Selected.vi"/>
 		<Item Name="Get Class Name Enum.vi" Type="VI" URL="../Private/Get Class Name Enum.vi"/>
 		<Item Name="Move All Objects on Diagram.vi" Type="VI" URL="../Public/Move All Objects on Diagram.vi"/>
@@ -324,7 +324,7 @@
 	</Item>
 	<Item Name="Primatives" Type="Folder">
 		<Item Name="Array" Type="Folder">
-			<Item Name="Create Array Size.vi" Type="VI" URL="/&lt;userlib&gt;/_LAVAcr/Scripting Tools/Primatives/Array/Create Array Size.vi"/>
+			<Item Name="Create Array Size.vi" Type="VI" URL="../Primatives/Array/Create Array Size.vi"/>
 			<Item Name="Create Array Subset Multiple.vi" Type="VI" URL="../Primatives/Array/Create Array Subset Multiple.vi"/>
 			<Item Name="Create Array Subset Single.vi" Type="VI" URL="../Primatives/Array/Create Array Subset Single.vi"/>
 			<Item Name="Create Array Subset.vi" Type="VI" URL="../Primatives/Array/Create Array Subset.vi"/>
@@ -334,7 +334,7 @@
 			<Item Name="Create Delete Array nD Single.vi" Type="VI" URL="../Primatives/Array/Create Delete Array nD Single.vi"/>
 			<Item Name="Create Delete Array Single.vi" Type="VI" URL="../Primatives/Array/Create Delete Array Single.vi"/>
 			<Item Name="Create Delete Array.vi" Type="VI" URL="../Primatives/Array/Create Delete Array.vi"/>
-			<Item Name="Create Index Array Multiple.vi" Type="VI" URL="/&lt;userlib&gt;/_LAVAcr/Scripting Tools/Primatives/Array/Create Index Array Multiple.vi"/>
+			<Item Name="Create Index Array Multiple.vi" Type="VI" URL="../Primatives/Array/Create Index Array Multiple.vi"/>
 			<Item Name="Create Index Array Single.vi" Type="VI" URL="../Primatives/Array/Create Index Array Single.vi"/>
 			<Item Name="Create Index Array.vi" Type="VI" URL="../Primatives/Array/Create Index Array.vi"/>
 			<Item Name="Create Insert into Array 1D Multiple.vi" Type="VI" URL="../Primatives/Array/Create Insert into Array 1D Multiple.vi"/>
