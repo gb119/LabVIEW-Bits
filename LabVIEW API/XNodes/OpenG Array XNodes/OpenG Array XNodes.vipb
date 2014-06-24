@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-05-29 22:29:09" Modified_Date="2014-06-24 10:25:06" Creator="phygbu" Comments="" ID="2fd36adb75a00360d2ad5765c50de42b">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-05-29 22:29:09" Modified_Date="2014-06-24 12:30:31" Creator="phygbu" Comments="" ID="ed5ead2e5c8880759c2e0522e91f4d19">
   <Library_General_Settings>
     <Package_File_Name>lava_lib_LabVIEW_API_openg_array_xnodes</Package_File_Name>
-    <Library_Version>1.4.2.42</Library_Version>
+    <Library_Version>1.4.2.44</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\..\..\..\builds\X-Nodes</Library_Output_Folder>
@@ -250,7 +250,7 @@ The array package contains several routines for operating on array data.
         <Path>&lt;user.lib&gt;\_LAVACR\OpenG Array XNodes\functions_lava_lib_LabVIEW_API_openg_array_xnodes_real.mnu</Path>
         <VI_Title>functions_lava_lib_LabVIEW_API_openg_array_xnodes_real.mnu</VI_Title>
       </Items_Data>
-      <GUID>189950B307C0CFA803A3B03797E7FFE9</GUID>
+      <GUID>045C14A0BF01B02F8BFACF10BB9B376B</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
