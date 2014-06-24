@@ -57,4 +57,7 @@
 	<Item Name="UpdateStateWithRef.vi" Type="Ability VI" URL="../UpdateStateWithRef.vi">
 		<Property Name="NI.XItem.Name" Type="Str">UpdateStateWithRef</Property>
 	</Item>
+	<Item Name="ReplaceSelf.vi" Type="Ability VI" URL="../ReplaceSelf.vi">
+		<Property Name="NI.XItem.Name" Type="Str">ReplaceSelf</Property>
+	</Item>
 </XNode>

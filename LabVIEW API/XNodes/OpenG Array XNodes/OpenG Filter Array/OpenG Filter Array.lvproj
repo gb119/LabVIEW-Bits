@@ -14,16 +14,15 @@
 		<Item Name="OpemG Filter Array" Type="Folder">
 			<Item Name="OpenG FilterArray.xnode" Type="XNode" URL="../OpenG FilterArray.xnode"/>
 			<Item Name="dir.mnu" Type="Document" URL="/&lt;userlib&gt;/LAVACR/8.6.x/Rusty Nails/XNodes/Array XNodes/OpenG Filter Array/dir.mnu"/>
-			<Item Name="OpenG Array filter -Regexp Invert  Scalar Template.vi" Type="VI" URL="/&lt;userlib&gt;/LAVACR/8.6.x/Rusty Nails/XNodes/Array XNodes/OpenG Filter Array/OpenG Array filter -Regexp Invert  Scalar Template.vi"/>
-			<Item Name="OpenG Array filter - Regexp Invert Array Template.vi" Type="VI" URL="/&lt;userlib&gt;/LAVACR/8.6.x/Rusty Nails/XNodes/Array XNodes/OpenG Filter Array/OpenG Array filter - Regexp Invert Array Template.vi"/>
-			<Item Name="OpenG Array filter - Regexp Array Template.vi" Type="VI" URL="/&lt;userlib&gt;/LAVACR/8.6.x/Rusty Nails/XNodes/Array XNodes/OpenG Filter Array/OpenG Array filter - Regexp Array Template.vi"/>
-			<Item Name="OpenG Array filter - Scalar Regexp Template.vi" Type="VI" URL="/&lt;userlib&gt;/LAVACR/8.6.x/Rusty Nails/XNodes/Array XNodes/OpenG Filter Array/OpenG Array filter - Scalar Regexp Template.vi"/>
-			<Item Name="OpenG Array filter - Invert Array Template.vi" Type="VI" URL="/&lt;userlib&gt;/LAVACR/8.6.x/Rusty Nails/XNodes/Array XNodes/OpenG Filter Array/OpenG Array filter - Invert Array Template.vi"/>
-			<Item Name="OpenG Array filter - Scalar Template.vi" Type="VI" URL="/&lt;userlib&gt;/LAVACR/8.6.x/Rusty Nails/XNodes/Array XNodes/OpenG Filter Array/OpenG Array filter - Scalar Template.vi"/>
-			<Item Name="OpenG Array filter - Template.vi" Type="VI" URL="/&lt;userlib&gt;/LAVACR/8.6.x/Rusty Nails/XNodes/Array XNodes/OpenG Filter Array/OpenG Array filter - Template.vi"/>
-			<Item Name="OpenG Array filter -Invert  Scalar Template.vi" Type="VI" URL="/&lt;userlib&gt;/LAVACR/8.6.x/Rusty Nails/XNodes/Array XNodes/OpenG Filter Array/OpenG Array filter -Invert  Scalar Template.vi"/>
+			<Item Name="OpenG Array filter -Regexp Invert  Scalar Template.vi" Type="VI" URL="../OpenG Array filter -Regexp Invert  Scalar Template.vi"/>
+			<Item Name="OpenG Array filter - Regexp Invert Array Template.vi" Type="VI" URL="../OpenG Array filter - Regexp Invert Array Template.vi"/>
+			<Item Name="OpenG Array filter - Regexp Array Template.vi" Type="VI" URL="../OpenG Array filter - Regexp Array Template.vi"/>
+			<Item Name="OpenG Array filter - Scalar Regexp Template.vi" Type="VI" URL="../OpenG Array filter - Scalar Regexp Template.vi"/>
+			<Item Name="OpenG Array filter - Invert Array Template.vi" Type="VI" URL="../OpenG Array filter - Invert Array Template.vi"/>
+			<Item Name="OpenG Array filter - Scalar Template.vi" Type="VI" URL="../OpenG Array filter - Scalar Template.vi"/>
+			<Item Name="OpenG Array filter - Template.vi" Type="VI" URL="../OpenG Array filter - Template.vi"/>
+			<Item Name="OpenG Array filter -Invert  Scalar Template.vi" Type="VI" URL="../OpenG Array filter -Invert  Scalar Template.vi"/>
 		</Item>
-		<Item Name="Scripting Tools.lvlib" Type="Library" URL="../../../../VI Scripting/Scripting Tools/Scripting Tools.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="VariantType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/VariantDataType/VariantType.lvlib"/>
@@ -46,15 +45,9 @@
 			</Item>
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Scripting Tools.lvlib" Type="Library" URL="/&lt;userlib&gt;/_LAVAcr/Scripting Tools/Scripting Tools.lvlib"/>
+				<Item Name="1D Array to String__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/1D Array to String__ogtk.vi"/>
 			</Item>
-			<Item Name="OpenG Array filter - Scalar Template.vi" Type="VI" URL="../OpenG Array filter - Scalar Template.vi"/>
-			<Item Name="OpenG Array filter - Template.vi" Type="VI" URL="../OpenG Array filter - Template.vi"/>
-			<Item Name="OpenG Array filter -Invert  Scalar Template.vi" Type="VI" URL="../OpenG Array filter -Invert  Scalar Template.vi"/>
-			<Item Name="OpenG Array filter - Invert Array Template.vi" Type="VI" URL="../OpenG Array filter - Invert Array Template.vi"/>
-			<Item Name="OpenG Array filter - Scalar Regexp Template.vi" Type="VI" URL="../OpenG Array filter - Scalar Regexp Template.vi"/>
-			<Item Name="OpenG Array filter - Regexp Array Template.vi" Type="VI" URL="../OpenG Array filter - Regexp Array Template.vi"/>
-			<Item Name="OpenG Array filter -Regexp Invert  Scalar Template.vi" Type="VI" URL="../OpenG Array filter -Regexp Invert  Scalar Template.vi"/>
-			<Item Name="OpenG Array filter - Regexp Invert Array Template.vi" Type="VI" URL="../OpenG Array filter - Regexp Invert Array Template.vi"/>
+			<Item Name="Scripting Tools.lvlib" Type="Library" URL="../../../../VI Scripting/Scripting Tools/Scripting Tools.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Zip File distribution" Type="Zip File">
