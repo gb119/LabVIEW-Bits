@@ -1,3 +1,5 @@
 *.aliases
 *.lvlps
 *.bak
+/LabVIEW API/XNodes/OpenG Array XNodes/OpenG Filter Array/Thumbs.db
+/LabVIEW API/XNodes/OpenG Array XNodes/OpenG Conditional Auto-Indexing Tunnel/Thumbs.db

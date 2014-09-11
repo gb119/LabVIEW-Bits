@@ -69,6 +69,12 @@
 			<Item Name="Current Y Value Read.vi" Type="Property VI" URL="../Properties/Current Y Value Read.vi"/>
 			<Item Name="Current Y Value Write.vi" Type="Property VI" URL="../Current Y Value Write.vi"/>
 		</Item>
+		<Item Name="Initial Value" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Initial Value</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Initial Value</Property>
+			<Item Name="Initial Value Read.vi" Type="Property VI" URL="../Initial Value Read.vi"/>
+			<Item Name="Initial Value Write.vi" Type="Property VI" URL="../Initial Value Write.vi"/>
+		</Item>
 	</Item>
 	<Item Name="Data.ctl" Type="Ability VI" URL="../Data.ctl">
 		<Property Name="NI.XItem.Name" Type="Str">Data</Property>
