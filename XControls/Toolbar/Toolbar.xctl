@@ -25,6 +25,8 @@
 		<Item Name="Regenerate All Button Images.vi" Type="VI" URL="../Support/Regenerate All Button Images.vi"/>
 		<Item Name="Local Button State Store.vi" Type="VI" URL="../Support/Local Button State Store.vi"/>
 		<Item Name="Toolbar Index Button.vi" Type="VI" URL="../Support/Toolbar Index Button.vi"/>
+		<Item Name="Unpain Button.vi" Type="VI" URL="../Support/Unpain Button.vi"/>
+		<Item Name="Paint Button on Mouse Over.vi" Type="VI" URL="../Support/Paint Button on Mouse Over.vi"/>
 	</Item>
 	<Item Name="Methods" Type="Folder">
 		<Item Name="Set Buttons from Objects.vi" Type="Method VI" URL="../Methods/Set Buttons from Objects.vi"/>
