@@ -36,4 +36,7 @@
 	<Item Name="OpenG Array Sort.vi" Type="Ability VI" URL="../OpenG Array Sort.vi">
 		<Property Name="NI.XItem.Name" Type="Str">Help</Property>
 	</Item>
+	<Item Name="SelectMenu5.vi" Type="VI" URL="../SelectMenu5.vi">
+		<Property Name="NI.XItem.Name" Type="Str">SelectMenu5</Property>
+	</Item>
 </XNode>

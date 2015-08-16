@@ -1,0 +1,16 @@
+SHA-256 Library v1.0.0.1 by University of Leeds
+Author: GAvin Burnell
+Copyright: Copyright (c) 2015, University of Leeds
+License: BSD
+Compatible LabVIEW Versions: >= 2012.
+Compatible OS Versions: ALL.
+
+Description:
+SHA-256 is one of the set of SHA-2 cryptographic hash functions designed by the NSA.  Cryptographic hash functions are mathematical operations run on data, which, by comparing the computed "hash"  to a known value of the hash, can be used to prove the data's integrity.  A key aspect of cryptographic hash functions is their collision resistance - so that two nearly identical pieices of data have very different hash values and that it is very difficult to construct a piece of data with a fixed hash value. This makes it very hard to 'fake' data to have the same hash as expected data.
+
+This pure G library provides routines to calculate the SHA-256 hash value of a string or of a file (NB. the latter is just a wrapper for the former, so is not particularly clever about memory handling!). The other main routine in the library will calculate an HMAC (Hash based Message Authentication Code) signature. An HMAC makes use of a cryptogrpahic hash function in combination with a shared provate key to create a signature for any peice of data. This is of use if data needs to be transferred whilst ensuring that it has not been modified in transmission, although the method does rely on a securely shared key between the sender and receiver.
+
+SHA-256 is widely used in internet protocols and is supported on all desktop platforms that LabVIEW runs on with native imp,enentations. This version however is fully portable being written in pure G. The algorithms are well documented in the publiuc domain and this version makes use of the more straightforward versions, so are almost certainly not as fast as they could be.
+
+Release Notes:
+Initial release of SHA-256 has library
