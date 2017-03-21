@@ -29,6 +29,7 @@
 		<Item Name="Paint Button on Mouse Over.vi" Type="VI" URL="../Support/Paint Button on Mouse Over.vi"/>
 	</Item>
 	<Item Name="Methods" Type="Folder">
+		<Item Name="Set Button From Vi.vi" Type="Method VI" URL="../Methods/Set Button From Vi.vi"/>
 		<Item Name="Set Buttons from Objects.vi" Type="Method VI" URL="../Methods/Set Buttons from Objects.vi"/>
 		<Item Name="Return Button State Method.vi" Type="Method VI" URL="../Methods/Return Button State Method.vi"/>
 		<Item Name="Latch-Unlatch Button.vi" Type="Method VI" URL="../Methods/Latch-Unlatch Button.vi"/>
@@ -95,5 +96,10 @@
 		<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Tip String (2) 1</Property>
 		<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Tip String</Property>
 		<Item Name="Tip String Write.vi" Type="Property VI" URL="../Properties/Tip String Write.vi"/>
+	</Item>
+	<Item Name="Buttons" Type="Property Folder">
+		<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Buttons</Property>
+		<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Buttons</Property>
+		<Item Name="Buttons Read 2.vi" Type="Property VI" URL="../Properties/Buttons Read 2.vi"/>
 	</Item>
 </XControl>

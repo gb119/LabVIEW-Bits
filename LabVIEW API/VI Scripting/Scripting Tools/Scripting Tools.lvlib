@@ -34,7 +34,7 @@
 			<Item Name="Find Control Index in ConPane.vi" Type="VI" URL="../Public/Find Control Index in ConPane.vi"/>
 		</Item>
 		<Item Name="Get Refs" Type="Folder">
-			<Item Name="Get All Objects.vi" Type="VI" URL="../Public/Get All Objects.vi"/>
+			<Item Name="Get All Objects.vi" Type="VI" URL="/&lt;userlib&gt;/_LAVAcr/Scripting Tools/Public/Get All Objects.vi"/>
 			<Item Name="Get All Sub-vis in Heirarchy.vi" Type="VI" URL="../Public/Get All Sub-vis in Heirarchy.vi"/>
 			<Item Name="Get All SubVi nodes in diagram.vi" Type="VI" URL="../Public/Get All SubVi nodes in diagram.vi"/>
 			<Item Name="Get Block Diagram.vi" Type="VI" URL="../Public/Get Block Diagram.vi"/>
@@ -293,7 +293,7 @@
 			<Item Name="Make lots of wires.vi" Type="VI" URL="../Public/Make lots of wires.vi"/>
 			<Item Name="Get other terminals on wire.vi" Type="VI" URL="../Public/Get other terminals on wire.vi"/>
 			<Item Name="Rewire Case structure.vi" Type="VI" URL="../Public/Rewire Case structure.vi"/>
-			<Item Name="Set Tunnel Flags.vi" Type="VI" URL="../Public/Set Tunnel Flags.vi"/>
+			<Item Name="Set Tunnel Flags.vi" Type="VI" URL="/&lt;userlib&gt;/_LAVAcr/Scripting Tools/Public/Set Tunnel Flags.vi"/>
 			<Item Name="Wire Matching Tunnels.vi" Type="VI" URL="../Public/Wire Matching Tunnels.vi"/>
 			<Item Name="Find Wire Segment.vi" Type="VI" URL="../Public/Find Wire Segment.vi"/>
 			<Item Name="Wire Segment Descriptor Type.ctl" Type="VI" URL="../Private/Wire Segment Descriptor Type.ctl"/>
@@ -308,18 +308,18 @@
 			<Item Name="Create a free text label.vi" Type="VI" URL="../Public/Create a free text label.vi"/>
 		</Item>
 		<Item Name="Undo" Type="Folder">
-			<Item Name="Begin Undo.vi" Type="VI" URL="../Undo/Begin Undo.vi"/>
-			<Item Name="End Undo.vi" Type="VI" URL="../Undo/End Undo.vi"/>
+			<Item Name="Begin Undo.vi" Type="VI" URL="/&lt;userlib&gt;/_LAVAcr/Scripting Tools/Undo/Begin Undo.vi"/>
+			<Item Name="End Undo.vi" Type="VI" URL="/&lt;userlib&gt;/_LAVAcr/Scripting Tools/Undo/End Undo.vi"/>
 			<Item Name="Undo-Redo.vi" Type="VI" URL="../Undo/Undo-Redo.vi"/>
 		</Item>
 		<Item Name="Copy Control" Type="Folder">
 			<Item Name="Copy-Paste.vi" Type="VI" URL="../Public/Copy-Paste.vi"/>
 		</Item>
 		<Item Name="Delete LV Object.vi" Type="VI" URL="../Public/Delete LV Object.vi"/>
-		<Item Name="Is Object Selected.vi" Type="VI" URL="../Public/Is Object Selected.vi"/>
+		<Item Name="Is Object Selected.vi" Type="VI" URL="/&lt;userlib&gt;/_LAVAcr/Scripting Tools/Public/Is Object Selected.vi"/>
 		<Item Name="Get Class Name Enum.vi" Type="VI" URL="../Private/Get Class Name Enum.vi"/>
-		<Item Name="Move All Objects on Diagram.vi" Type="VI" URL="../Public/Move All Objects on Diagram.vi"/>
-		<Item Name="Force Type Propagation.vi" Type="VI" URL="../Public/Force Type Propagation.vi"/>
+		<Item Name="Move All Objects on Diagram.vi" Type="VI" URL="/&lt;userlib&gt;/_LAVAcr/Scripting Tools/Public/Move All Objects on Diagram.vi"/>
+		<Item Name="Force Type Propagation.vi" Type="VI" URL="/&lt;userlib&gt;/_LAVAcr/Scripting Tools/Public/Force Type Propagation.vi"/>
 		<Item Name="New Object Type Ring.ctl" Type="VI" URL="../Public/New Object Type Ring.ctl"/>
 	</Item>
 	<Item Name="Primatives" Type="Folder">
@@ -424,7 +424,7 @@
 			<Item Name="Create While Loop.vi" Type="VI" URL="../Primatives/Structures/Create While Loop.vi"/>
 			<Item Name="Expand shift register.vi" Type="VI" URL="../Primatives/Structures/Expand shift register.vi"/>
 			<Item Name="Space out tunnels.vi" Type="VI" URL="../Primatives/Structures/Space out tunnels.vi"/>
-			<Item Name="Create Structure By Enclosing.vi" Type="VI" URL="../Primatives/Structures/Create Structure By Enclosing.vi"/>
+			<Item Name="Create Structure By Enclosing.vi" Type="VI" URL="/&lt;userlib&gt;/_LAVAcr/Scripting Tools/Primatives/Structures/Create Structure By Enclosing.vi"/>
 		</Item>
 		<Item Name="Vi Server" Type="Folder">
 			<Item Name="Polymorphs" Type="Folder">
