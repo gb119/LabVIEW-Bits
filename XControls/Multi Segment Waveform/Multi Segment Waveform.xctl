@@ -1,8 +1,8 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<XControl LVVersion="12008004">
+<XControl LVVersion="18008000">
 	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
-	<Property Name="NI.Lib.Icon" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*J!!!*Q(C=T:3^N2J"$)7P@?RTH.+"$Z3A!JT1!CZ"_5;E,S1E61OU1!NKA29IQ)(((Y0YM2^`RA3??6LA8IXU\?S]F@LY)HX3`@(DVHC&amp;XS[0E`^^0^LP(Y`\@YTS?Y^T@\F=PG-Y]Z=6V`XBND_UY:9`X/Y`(#^0_5.L&amp;R+/`E'`YJ`E]Y2*_:_PD8:B`Y@4[P;-@UC9N*P_J&amp;XT?]+E0?_4509V`W#XF`R``+.`&gt;\S^OY%\YVNL0V]6?Y10%H7**)*QQADU2%`U2%`U2%`U1!`U1!`U1!^U2X&gt;U2X&gt;U2X&gt;U1T&gt;U1T&gt;U1T@U0N'&amp;,H3BAZ1U4RIF2:-#34)I3CY*4]+4]#1]`&amp;4#E`!E0!F0QE/+%J[%*_&amp;*?")?FCHB38A3HI1HY;&amp;5*]E_U?&amp;*?#CPA#@A#8A#HI#(FAJY!I#A76!Y+!+'!D0Y%P!%0!%08R8Q"$Q"4]!4]'!LY!FY!J[!*_"B3&gt;_6[$3\C1Y0:?4Q/$Q/D]0D]&amp;";$I`$Y`!Y0!Y0\?4Q/$Q/B.01+1[#H%6/AP0$Y8&amp;Y_*$$Y`!Y0![0QY06HZ$XH&gt;H2\#9[0!;0Q70Q'$Q'$S6E]"A]"I`"9`"16A;0Q70Q'$Q'$[VE]"A]"I]"9D3FP9RCRE)DS2!-(P\[;&lt;(_F++47*^3(6\6I61&gt;.N5B5BU/V5.805T61V*NPGJ46:OFWA46T;GA64#K*KL&amp;OU2NO7[).&lt;%C&amp;M3=G"&amp;49ES-&gt;EN@H,D&gt;&lt;L8:&lt;,2?L\6;L&lt;29,$3@TT7&lt;T43&gt;4D5?DT5;D9ZPIK`-YQNB`VZ[Y`MDM=N^Z'8XF_-`?$@KI]\PD4X["1&amp;58%)!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">302022660</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*J!!!*Q(C=T:3^N2J"$)7P@?RTH.+"$Z3A!JT1!CZ"_5;E,S1E61OU1!NKA29IQ)(((Y0YM2^`RA3??6LA8IXU\?S]F@LY)HX3`@(DVHC&amp;XS[0E`^^0^LP(Y`\@YTS?Y^T@\F=PG-Y]Z=6V`XBND_UY:9`X/Y`(#^0_5.L&amp;R+/`E'`YJ`E]Y2*_:_PD8:B`Y@4[P;-@UC9N*P_J&amp;XT?]+E0?_4509V`W#XF`R``+.`&gt;\S^OY%\YVNL0V]6?Y10%H7**)*QQADU2%`U2%`U2%`U1!`U1!`U1!^U2X&gt;U2X&gt;U2X&gt;U1T&gt;U1T&gt;U1T@U0N'&amp;,H3BAZ1U4RIF2:-#34)I3CY*4]+4]#1]`&amp;4#E`!E0!F0QE/+%J[%*_&amp;*?")?FCHB38A3HI1HY;&amp;5*]E_U?&amp;*?#CPA#@A#8A#HI#(FAJY!I#A76!Y+!+'!D0Y%P!%0!%08R8Q"$Q"4]!4]'!LY!FY!J[!*_"B3&gt;_6[$3\C1Y0:?4Q/$Q/D]0D]&amp;";$I`$Y`!Y0!Y0\?4Q/$Q/B.01+1[#H%6/AP0$Y8&amp;Y_*$$Y`!Y0![0QY06HZ$XH&gt;H2\#9[0!;0Q70Q'$Q'$S6E]"A]"I`"9`"16A;0Q70Q'$Q'$[VE]"A]"I]"9D3FP9RCRE)DS2!-(P\[;&lt;(_F++47*^3(6\6I61&gt;.N5B5BU/V5.805T61V*NPGJ46:OFWA46T;GA64#K*KL&amp;OU2NO7[).&lt;%C&amp;M3=G"&amp;49ES-&gt;EN@H,D&gt;&lt;L8:&lt;,2?L\6;L&lt;29,$3@TT7&lt;T43&gt;4D5?DT5;D9ZPIK`-YQNB`VZ[Y`MDM=N^Z'8XF_-`?$@KI]\PD4X["1&amp;58%)!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Property Name="NI.XClass.Flags" Type="Int">0</Property>
@@ -28,6 +28,7 @@
 		<Item Name="Update Format Labels.vi" Type="VI" URL="../Support/Update Format Labels.vi"/>
 	</Item>
 	<Item Name="Properties" Type="Folder">
+		<Item Name="Program Control.vi" Type="Method VI" URL="../Properties/Program Control.vi"/>
 		<Item Name="Set Display Format and Precision Method.vi" Type="Method VI" URL="../Properties/Set Display Format and Precision Method.vi"/>
 		<Item Name="Draw Current Location" Type="Property Folder">
 			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Draw Current Location</Property>

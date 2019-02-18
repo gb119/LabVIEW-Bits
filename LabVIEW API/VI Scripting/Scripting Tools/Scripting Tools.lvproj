@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="12008004">
+<Project Type="Project" LVVersion="18008000">
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
@@ -37,7 +37,6 @@
 				<Item Name="VariantType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/VariantDataType/VariantType.lvlib"/>
 				<Item Name="NI_XNodeSupport.lvlib" Type="Library" URL="/&lt;vilib&gt;/XNodeSupport/NI_XNodeSupport.lvlib"/>
 				<Item Name="Draw Flattened Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Flattened Pixmap.vi"/>
-				<Item Name="FixBadRect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/FixBadRect.vi"/>
 				<Item Name="imagedata.ctl" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/imagedata.ctl"/>
 				<Item Name="TRef Traverse for References.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef Traverse for References.vi"/>
 				<Item Name="TRef TravTarget.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef TravTarget.ctl"/>
@@ -45,13 +44,21 @@
 				<Item Name="LVPositionTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPositionTypeDef.ctl"/>
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
-				<Item Name="RightClickAPI.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/RCF API/Right Click API.llb/RightClickAPI.lvlib"/>
-				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
-				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
-				<Item Name="8308400DAC9081C07BB14D9EAB5ACDB2" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/RCF API/Right Click API.llb/8308400DAC9081C07BB14D9EAB5ACDB2"/>
-				<Item Name="Librarian Path Location.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Librarian Path Location.vi"/>
-				<Item Name="Get File System Separator.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/sysinfo.llb/Get File System Separator.vi"/>
 				<Item Name="LVNumericRepresentation.ctl" Type="VI" URL="/&lt;vilib&gt;/numeric/LVNumericRepresentation.ctl"/>
+				<Item Name="VI Scripting - Traverse.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/traverseref.llb/VI Scripting - Traverse.lvlib"/>
+				<Item Name="FixBadRect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/FixBadRect.vi"/>
+				<Item Name="Right Click API Plugin Info Data__RightClickAPI.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/RCF API/Right Click API.llb/Right Click API Plugin Info Data__RightClickAPI.ctl"/>
+				<Item Name="Right Click API Menu Activation Data__RightClickAPI.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/RCF API/Right Click API.llb/Right Click API Menu Activation Data__RightClickAPI.ctl"/>
+				<Item Name="Generic Option - Input Data - __RightClickAPI.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/RCF API/Right Click API.llb/Generic Option - Input Data - __RightClickAPI.ctl"/>
+				<Item Name="Right Click API Get Framework Data (Dyn Call)__RightClickAPI.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/RCF API/Right Click API.llb/Right Click API Get Framework Data (Dyn Call)__RightClickAPI.vi"/>
+				<Item Name="Right Click API Set Error Out Data (Dyn Call)__RightClickAPI.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/RCF API/Right Click API.llb/Right Click API Set Error Out Data (Dyn Call)__RightClickAPI.vi"/>
+				<Item Name="Right Click API Config String to VCluster__RightClickAPI.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/RCF API/Right Click API.llb/Right Click API Config String to VCluster__RightClickAPI.vi"/>
+				<Item Name="Right Click API VCluster to Config String__RightClickAPI.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/RCF API/Right Click API.llb/Right Click API VCluster to Config String__RightClickAPI.vi"/>
+				<Item Name="Right Click API Set Plugin Config Data (Dyn Call)__RightClickAPI.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/RCF API/Right Click API.llb/Right Click API Set Plugin Config Data (Dyn Call)__RightClickAPI.vi"/>
+				<Item Name="Right Click API Set Plugin Info Data (Dyn Call)__RightClickAPI.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/RCF API/Right Click API.llb/Right Click API Set Plugin Info Data (Dyn Call)__RightClickAPI.vi"/>
+				<Item Name="Right Click API Set Menu Activation Data (Dyn Call)__RightClickAPI.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/RCF API/Right Click API.llb/Right Click API Set Menu Activation Data (Dyn Call)__RightClickAPI.vi"/>
+				<Item Name="Right Click API Option UI Proxy (Dyn Call)__RightClickAPI.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/RCF API/Right Click API.llb/Right Click API Option UI Proxy (Dyn Call)__RightClickAPI.vi"/>
+				<Item Name="TRef Traverse.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef Traverse.vi"/>
 			</Item>
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="1D Array to String__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/1D Array to String__ogtk.vi"/>

@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-01 18:16:39" Modified_Date="2014-06-01 18:24:35" Creator="phygbu" Comments="" ID="6549cf5559f9d905ad40af6f90c3af18">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-01 18:16:39" Modified_Date="2015-01-12 17:02:03" Creator="phygbu" Comments="" ID="e0763290b61dc7fde9fdaedc765a0e82">
   <Library_General_Settings>
     <Package_File_Name>lava_lib_LabVIEW_API_scripting_tools</Package_File_Name>
-    <Library_Version>0.25.0.26</Library_Version>
+    <Library_Version>0.26.0.26</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\..\..\..\builds\Scripting Tools</Library_Output_Folder>
@@ -30,8 +30,8 @@
     </Custom_Action_VIs>
     <VI_Package_Configuration_File>lava_lib_LabVIEW_API_scripting_tools.vipc</VI_Package_Configuration_File>
     <Description>
-      <One_Line_Description_Summary>A LabVIEW 2012 Library of VIs to help with scripting.</One_Line_Description_Summary>
-      <Description>This is a LabVIEW 2012 Library of VIs to help with scripting.
+      <One_Line_Description_Summary>A LabVIEW 8.6.1 Library of VIs to help with scripting.</One_Line_Description_Summary>
+      <Description>This is a LabVIEW 8.6.1 Library of VIs to help with scripting.
 
 The public VIs include routines to get hold of the block diagram references, control terminal references, get the connector pane reference and select the connector pane pattern and wire controls up to it. There are a number of routines to help wire the block diagram up, including creating a selection of the primitives (I got bored of coding them all up !).
 
@@ -48,7 +48,8 @@ NB If you are installing this with the Array XNodes (also from the Code reposito
       <Packager>Gavin Burnell</Packager>
       <URL>http://lavag.org/topic/10299-discuss-scripting-tools/</URL>
       <Release_Notes>Change Log:
-0.25.0 Added routines for getting a string representation of a variant's type for XNode support</Release_Notes>
+0.25.0 Add a cpouple more routines for selecting and replacing nodes and controls.
+</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -291,7 +292,7 @@ NB If you are installing this with the Array XNodes (also from the Code reposito
         <Path/>
         <VI_Title>XNode Support</VI_Title>
       </Items_Data>
-      <GUID>311E29F03D10A897B8505F1974200930</GUID>
+      <GUID>C011B5BF25A2397933006844A4D412E3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -424,7 +425,7 @@ NB If you are installing this with the Array XNodes (also from the Code reposito
         <Path/>
         <VI_Title>Vi Server</VI_Title>
       </Items_Data>
-      <GUID>1BF11133C9108B36C5C8E02170F8111E</GUID>
+      <GUID>9BDE2AD0E63029B132FC28111065BA63</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -599,7 +600,7 @@ NB If you are installing this with the Array XNodes (also from the Code reposito
         <Path/>
         <VI_Title>Undo</VI_Title>
       </Items_Data>
-      <GUID>011A37C711C8818321A19EECB03CDD9E</GUID>
+      <GUID>341D1AD9C409B7DD7314F64F938095CE</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -942,7 +943,7 @@ NB If you are installing this with the Array XNodes (also from the Code reposito
         <Path>Primatives\Array\Create Replace Array.vi</Path>
         <VI_Title>Create Replace Array.vi</VI_Title>
       </Items_Data>
-      <GUID>D28DAC44C6F1454F0504F05D1FD2383E</GUID>
+      <GUID>D1BDB5929A5761916E549716B54FB1E8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1187,7 +1188,7 @@ NB If you are installing this with the Array XNodes (also from the Code reposito
         <Path>Primatives\Booleans\Create XOR.vi</Path>
         <VI_Title>Create XOR.vi</VI_Title>
       </Items_Data>
-      <GUID>9ABF716182AE6D8D851785A314402515</GUID>
+      <GUID>C4CBBF306ECBD45647DFE0B6F31DC661</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1278,7 +1279,7 @@ NB If you are installing this with the Array XNodes (also from the Code reposito
         <Path>Primatives\Cluster\Create unbundle.vi</Path>
         <VI_Title>Create unbundle.vi</VI_Title>
       </Items_Data>
-      <GUID>52FAAF3035CBFDBC85F66BC9A12BABFC</GUID>
+      <GUID>7CDD76A61379ADA17C47C207F690B055</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1565,7 +1566,7 @@ NB If you are installing this with the Array XNodes (also from the Code reposito
         <Path>Primatives\Comparison\Create Select.vi</Path>
         <VI_Title>Create Select.vi</VI_Title>
       </Items_Data>
-      <GUID>D56D87EC6E4F9218B84E7299DD85E637</GUID>
+      <GUID>4C4C2B52AC6CF23E5D9D846D459E2FF3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1880,7 +1881,7 @@ NB If you are installing this with the Array XNodes (also from the Code reposito
         <Path>Primatives\Numerics\Create Subtract.vi</Path>
         <VI_Title>Create Subtract.vi</VI_Title>
       </Items_Data>
-      <GUID>617BD196B6F601E219591D88CB0B6043</GUID>
+      <GUID>A24E3418E2660D243CDAED301B450D9E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1999,7 +2000,7 @@ NB If you are installing this with the Array XNodes (also from the Code reposito
         <Path>Primatives\Structures\Space out tunnels.vi</Path>
         <VI_Title>Space out tunnels.vi</VI_Title>
       </Items_Data>
-      <GUID>CAB5AA54A82F42E7357A55C9A38FE4BD</GUID>
+      <GUID>6B6BF847D79AA965A03098E4BD0798E8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -2062,7 +2063,7 @@ NB If you are installing this with the Array XNodes (also from the Code reposito
         <Path>Primatives\Vi Server\Create To More Specific Class.vi</Path>
         <VI_Title>Create To More Specific Class.vi</VI_Title>
       </Items_Data>
-      <GUID>52F970D123B0495C27D31FAE07738519</GUID>
+      <GUID>328F80D81FCC98C4ECE1BD733699A15D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2251,7 +2252,7 @@ NB If you are installing this with the Array XNodes (also from the Code reposito
         <Path>XNode Support\Copy and WireTagged Element.vi</Path>
         <VI_Title>Copy and WireTagged Element.vi</VI_Title>
       </Items_Data>
-      <GUID>DDC63A30708CC9D461ED8691CE36E565</GUID>
+      <GUID>090301F312C194ED092F67B5B20ED866</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -2328,7 +2329,7 @@ NB If you are installing this with the Array XNodes (also from the Code reposito
         <Path>Public\Create LVObject references\Create LVObject Reference.vi</Path>
         <VI_Title>Create LVObject Reference.vi</VI_Title>
       </Items_Data>
-      <GUID>A45AB73E0DB6552F0761B27AD127C904</GUID>
+      <GUID>ECCFD6C589F79BF89FC8CF04223EE5FA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -2503,7 +2504,7 @@ NB If you are installing this with the Array XNodes (also from the Code reposito
         <Path>Public\Get Tunnel Ref by Name (Structure).vi</Path>
         <VI_Title>Get Tunnel Ref by Name (Structure).vi</VI_Title>
       </Items_Data>
-      <GUID>A1447D94CFA70DEECBDF80AAB97EC54C</GUID>
+      <GUID>406F9329E3F1806F4247C5A0E5AF5B89</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -2706,7 +2707,7 @@ NB If you are installing this with the Array XNodes (also from the Code reposito
         <Path>Public\Wire XNode Terms by Tag.vi</Path>
         <VI_Title>Wire XNode Terms by Tag.vi</VI_Title>
       </Items_Data>
-      <GUID>27BED56A939E0A328DE0D30186D36193</GUID>
+      <GUID>AC0451D94BF1FAF6E494C9FC758ECAA8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -2783,7 +2784,7 @@ NB If you are installing this with the Array XNodes (also from the Code reposito
         <Path>Public\Find Control Index in ConPane.vi</Path>
         <VI_Title>Find Control Index in ConPane.vi</VI_Title>
       </Items_Data>
-      <GUID>F3665738C24DEA4D151DCA9A844E2922</GUID>
+      <GUID>819A839D9309BCF5135487A6B43C02CB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -2846,7 +2847,7 @@ NB If you are installing this with the Array XNodes (also from the Code reposito
         <Path>Public\Set Control Label.vi</Path>
         <VI_Title>Set Control Label.vi</VI_Title>
       </Items_Data>
-      <GUID>CFEAAF5518F29AD442B9598BC0A1BCAC</GUID>
+      <GUID>27411E369A78193373EFB84CB6A3715B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -2895,7 +2896,7 @@ NB If you are installing this with the Array XNodes (also from the Code reposito
         <Path>Public\Move All Objects on Diagram.vi</Path>
         <VI_Title>Move All Objects on Diagram.vi</VI_Title>
       </Items_Data>
-      <GUID>C5E640260ADE0E464E95727B7D2AD8CB</GUID>
+      <GUID>55CE09E9B439B6772C057AC120859CCF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -3000,7 +3001,7 @@ NB If you are installing this with the Array XNodes (also from the Code reposito
         <Path>Tags\Find Tagged Object.vi</Path>
         <VI_Title>Find Tagged Object.vi</VI_Title>
       </Items_Data>
-      <GUID>96CDA9AF1D8EC6047A175FAFF0138E7A</GUID>
+      <GUID>4421D2A6C69380BEF619590C68FFF96A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -3063,7 +3064,7 @@ NB If you are installing this with the Array XNodes (also from the Code reposito
         <Path>Undo\Undo-Redo.vi</Path>
         <VI_Title>Undo-Redo.vi</VI_Title>
       </Items_Data>
-      <GUID>83F5E050A3A0B772D4C210842295BAEA</GUID>
+      <GUID>4979899069C342E40B10449A6ED4C3A5</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

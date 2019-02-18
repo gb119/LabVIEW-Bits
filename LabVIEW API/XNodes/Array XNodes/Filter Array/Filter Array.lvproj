@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="12008004">
+<Project Type="Project" LVVersion="18008000">
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
@@ -34,18 +34,13 @@
 				<Item Name="LVPointTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPointTypeDef.ctl"/>
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
 				<Item Name="LVNumericRepresentation.ctl" Type="VI" URL="/&lt;vilib&gt;/Numeric/LVNumericRepresentation.ctl"/>
+				<Item Name="VI Scripting - Traverse.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/traverseref.llb/VI Scripting - Traverse.lvlib"/>
+				<Item Name="TRef Traverse.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef Traverse.vi"/>
 			</Item>
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Scripting Tools.lvlib" Type="Library" URL="/&lt;userlib&gt;/_LAVAcr/Scripting Tools/Scripting Tools.lvlib"/>
+				<Item Name="1D Array to String__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/1D Array to String__ogtk.vi"/>
 			</Item>
-			<Item Name="Create a constant from terminal.vi" Type="VI" URL="../../../../VI Scripting/Scripting Tools/Public/Create a constant from terminal.vi"/>
-			<Item Name="Create a control from variant.vi" Type="VI" URL="../../../../VI Scripting/Scripting Tools/Public/Create a control from variant.vi"/>
-			<Item Name="Create Array Size.vi" Type="VI" URL="../../../../VI Scripting/Scripting Tools/Primatives/Array/Create Array Size.vi"/>
-			<Item Name="Create Index Array Multiple.vi" Type="VI" URL="../../../../VI Scripting/Scripting Tools/Primatives/Array/Create Index Array Multiple.vi"/>
-			<Item Name="Delete LV Object.vi" Type="VI" URL="../../../../VI Scripting/Scripting Tools/Public/Delete LV Object.vi"/>
-			<Item Name="Scripting Tools.lvlib" Type="Library" URL="../../../../VI Scripting/Scripting Tools/Scripting Tools.lvlib"/>
-			<Item Name="Wire 2 terminal function.vi" Type="VI" URL="../../../../VI Scripting/Scripting Tools/Public/Wire 2 terminal function.vi"/>
-			<Item Name="Wire n terminal function.vi" Type="VI" URL="../../../../VI Scripting/Scripting Tools/Public/Wire n terminal function.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

@@ -1,9 +1,9 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="12008004">
+<Library LVVersion="18008000">
 	<Property Name="NI.Lib.Description" Type="Str">A collection of routines to make scripting LabVIEW a bit easier</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
-	<Property Name="NI.Lib.Icon" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)!!!!*Q(C=\&gt;3^&lt;2N"%!&lt;1E?(!+4MQW-+UQ"&lt;9QL4!V#&amp;&lt;G"&lt;9!D0(UQ*&lt;9!PSYWFB/")4#T"A\7EI]NO\X8&gt;\0R&amp;&lt;_R&lt;R.6[@N:`PNI`P@^&lt;CX@&lt;:`^H`@`=`@XR_0(`)0L:&amp;P'R3.;J6K&gt;T/\H8E)R`ZS%=_]J;XP/5N&lt;XH,3V\SEJ?]Z#60?=J4HP+5JXT&lt;Z#%0?=CNSJB]4$1'(1/-H6&amp;C@!T0]!T0]0A:QT-]QT-]QW/8'*\B':\B'2[(R@!-T`!-T`!9;J0-NMFZBM@QU4T.UTT.UTSGD/:JA$::'\A.AB'NMXVJHO:J(F_D?:KH?:KH?82(]T20]T20]TBE7Z8?.)^.TG/9+*\C+:\C+2Z$2`%54`%54`'9,IKH?!KC4&amp;A'2YBS5.GB`#C?YP%PCK&gt;YCK&gt;YCE@8&gt;I6K7ZG(ZL(*?:)H?:)H?:,(%*%]S:-]S:-]BIXE3:\E3:\E-65E4`)E4Y+E35U@;&lt;"U9.IJ"=HD&lt;\N&lt;=LN+P5FSW^;D_8;DRLI"9^V9M7[97$&gt;#L!M=[],&amp;OC#R&amp;DL7!M:;G&amp;AH(/N%9A&amp;D42RLQ&amp;A\RNXH46X62:X632X61?X6\H(I8^\R@L`(\8;,[`5;F]MFTO&gt;TH%[H/"[0=4A=9L`@RW[X_`WW_GZ\;S`PP:&gt;_[0`I?HMP`1PPRPA3LX_]ZKX2,[;.A;Q!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">302022660</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)!!!!*Q(C=\&gt;3^&lt;2N"%!&lt;1E?(!+4MQW-+UQ"&lt;9QL4!V#&amp;&lt;G"&lt;9!D0(UQ*&lt;9!PSYWFB/")4#T"A\7EI]NO\X8&gt;\0R&amp;&lt;_R&lt;R.6[@N:`PNI`P@^&lt;CX@&lt;:`^H`@`=`@XR_0(`)0L:&amp;P'R3.;J6K&gt;T/\H8E)R`ZS%=_]J;XP/5N&lt;XH,3V\SEJ?]Z#60?=J4HP+5JXT&lt;Z#%0?=CNSJB]4$1'(1/-H6&amp;C@!T0]!T0]0A:QT-]QT-]QW/8'*\B':\B'2[(R@!-T`!-T`!9;J0-NMFZBM@QU4T.UTT.UTSGD/:JA$::'\A.AB'NMXVJHO:J(F_D?:KH?:KH?82(]T20]T20]TBE7Z8?.)^.TG/9+*\C+:\C+2Z$2`%54`%54`'9,IKH?!KC4&amp;A'2YBS5.GB`#C?YP%PCK&gt;YCK&gt;YCE@8&gt;I6K7ZG(ZL(*?:)H?:)H?:,(%*%]S:-]S:-]BIXE3:\E3:\E-65E4`)E4Y+E35U@;&lt;"U9.IJ"=HD&lt;\N&lt;=LN+P5FSW^;D_8;DRLI"9^V9M7[97$&gt;#L!M=[],&amp;OC#R&amp;DL7!M:;G&amp;AH(/N%9A&amp;D42RLQ&amp;A\RNXH46X62:X632X61?X6\H(I8^\R@L`(\8;,[`5;F]MFTO&gt;TH%[H/"[0=4A=9L`@RW[X_`WW_GZ\;S`PP:&gt;_[0`I?HMP`1PPRPA3LX_]ZKX2,[;.A;Q!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.1.1</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Private" Type="Folder">
@@ -35,11 +35,13 @@
 		</Item>
 		<Item Name="Get Refs" Type="Folder">
 			<Item Name="Get All Objects.vi" Type="VI" URL="../Public/Get All Objects.vi"/>
+			<Item Name="Get Specified Objects.vi" Type="VI" URL="../Public/Get Specified Objects.vi"/>
 			<Item Name="Get All Sub-vis in Heirarchy.vi" Type="VI" URL="../Public/Get All Sub-vis in Heirarchy.vi"/>
 			<Item Name="Get All SubVi nodes in diagram.vi" Type="VI" URL="../Public/Get All SubVi nodes in diagram.vi"/>
 			<Item Name="Get Block Diagram.vi" Type="VI" URL="../Public/Get Block Diagram.vi"/>
 			<Item Name="Get All Wires.vi" Type="VI" URL="../Public/Get All Wires.vi"/>
 			<Item Name="Get Control Terminal Ref.vi" Type="VI" URL="../Public/Get Control Terminal Ref.vi"/>
+			<Item Name="Get Specified FP Objects.vi" Type="VI" URL="../Public/Get Specified FP Objects.vi"/>
 			<Item Name="Get Topmost Block Diagram.vi" Type="VI" URL="../Public/Get Topmost Block Diagram.vi"/>
 			<Item Name="Get Tunnel Reference by Type.vi" Type="VI" URL="../Public/Get Tunnel Reference by Type.vi"/>
 			<Item Name="Get Tunnel Reference by Type (Structure).vi" Type="VI" URL="../Public/Get Tunnel Reference by Type (Structure).vi"/>
@@ -282,6 +284,7 @@
 			<Item Name="Create a constant from variant.vi" Type="VI" URL="../Public/Create a constant from variant.vi"/>
 			<Item Name="Create a control from variant.vi" Type="VI" URL="../Public/Create a control from variant.vi"/>
 			<Item Name="Create LVObject Reference.vi" Type="VI" URL="../Public/Create LVObject references/Create LVObject Reference.vi"/>
+			<Item Name="Replace Node.vi" Type="VI" URL="../Public/Replace Node.vi"/>
 		</Item>
 		<Item Name="Wiring" Type="Folder">
 			<Item Name="Wire 2 terminal function.vi" Type="VI" URL="../Public/Wire 2 terminal function.vi"/>
@@ -444,4 +447,5 @@
 	<Item Name="Vi with Error Clustters.vit" Type="VI" URL="../Vi with Error Clustters.vit"/>
 	<Item Name="Sort Wire Terminals into Joint Order.vi" Type="VI" URL="../Private/Sort Wire Terminals into Joint Order.vi"/>
 	<Item Name="XNode Support.lvlib" Type="Library" URL="../XNode Support/XNode Support.lvlib"/>
+	<Item Name="Replace Control.vi" Type="VI" URL="../Public/Replace Control.vi"/>
 </Library>
