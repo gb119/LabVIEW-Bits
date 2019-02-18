@@ -20,12 +20,6 @@
 			<Item Name="Support vis" Type="Folder">
 				<Item Name="Locate Error Tunnels on Case.vi" Type="VI" URL="../Examples/Support vis/Locate Error Tunnels on Case.vi"/>
 			</Item>
-			<Item Name="RCF Framework Example" Type="Folder">
-				<Item Name="Support" Type="Folder">
-					<Item Name="Wire Error Case Structure for RCF.vi" Type="VI" URL="../Examples/RCF Framework Example/Support/Wire Error Case Structure for RCF.vi"/>
-				</Item>
-				<Item Name="Wrap BD in Error Case - Plugin -.vi" Type="VI" URL="../Examples/RCF Framework Example/Wrap BD in Error Case - Plugin -.vi"/>
-			</Item>
 			<Item Name="Wire Case selector from error wire.vi" Type="VI" URL="../Examples/Wire Case selector from error wire.vi"/>
 			<Item Name="Cleanup all Wiring.vi" Type="VI" URL="../Examples/Cleanup all Wiring.vi"/>
 			<Item Name="Create a simple numeric vi.vi" Type="VI" URL="../Examples/Create a simple numeric vi.vi"/>
@@ -47,21 +41,11 @@
 				<Item Name="LVNumericRepresentation.ctl" Type="VI" URL="/&lt;vilib&gt;/numeric/LVNumericRepresentation.ctl"/>
 				<Item Name="VI Scripting - Traverse.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/traverseref.llb/VI Scripting - Traverse.lvlib"/>
 				<Item Name="FixBadRect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/FixBadRect.vi"/>
-				<Item Name="Right Click API Plugin Info Data__RightClickAPI.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/RCF API/Right Click API.llb/Right Click API Plugin Info Data__RightClickAPI.ctl"/>
-				<Item Name="Right Click API Menu Activation Data__RightClickAPI.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/RCF API/Right Click API.llb/Right Click API Menu Activation Data__RightClickAPI.ctl"/>
-				<Item Name="Generic Option - Input Data - __RightClickAPI.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/RCF API/Right Click API.llb/Generic Option - Input Data - __RightClickAPI.ctl"/>
-				<Item Name="Right Click API Get Framework Data (Dyn Call)__RightClickAPI.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/RCF API/Right Click API.llb/Right Click API Get Framework Data (Dyn Call)__RightClickAPI.vi"/>
-				<Item Name="Right Click API Set Error Out Data (Dyn Call)__RightClickAPI.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/RCF API/Right Click API.llb/Right Click API Set Error Out Data (Dyn Call)__RightClickAPI.vi"/>
-				<Item Name="Right Click API Config String to VCluster__RightClickAPI.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/RCF API/Right Click API.llb/Right Click API Config String to VCluster__RightClickAPI.vi"/>
-				<Item Name="Right Click API VCluster to Config String__RightClickAPI.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/RCF API/Right Click API.llb/Right Click API VCluster to Config String__RightClickAPI.vi"/>
-				<Item Name="Right Click API Set Plugin Config Data (Dyn Call)__RightClickAPI.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/RCF API/Right Click API.llb/Right Click API Set Plugin Config Data (Dyn Call)__RightClickAPI.vi"/>
-				<Item Name="Right Click API Set Plugin Info Data (Dyn Call)__RightClickAPI.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/RCF API/Right Click API.llb/Right Click API Set Plugin Info Data (Dyn Call)__RightClickAPI.vi"/>
-				<Item Name="Right Click API Set Menu Activation Data (Dyn Call)__RightClickAPI.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/RCF API/Right Click API.llb/Right Click API Set Menu Activation Data (Dyn Call)__RightClickAPI.vi"/>
-				<Item Name="Right Click API Option UI Proxy (Dyn Call)__RightClickAPI.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/RCF API/Right Click API.llb/Right Click API Option UI Proxy (Dyn Call)__RightClickAPI.vi"/>
 				<Item Name="TRef Traverse.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef Traverse.vi"/>
 			</Item>
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="1D Array to String__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/1D Array to String__ogtk.vi"/>
+				<Item Name="Scripting Tools.lvlib" Type="Library" URL="/&lt;userlib&gt;/_LAVAcr/Scripting Tools/Scripting Tools.lvlib"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
