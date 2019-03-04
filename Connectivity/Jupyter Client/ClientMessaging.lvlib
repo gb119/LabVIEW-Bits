@@ -24,14 +24,18 @@
 		<Item Name="update_display_data.lvclass" Type="LVClass" URL="../IOPub Messages/update_display_data/update_display_data.lvclass"/>
 	</Item>
 	<Item Name="Shell Messages" Type="Folder">
-		<Item Name="execute_reply Message.lvclass" Type="LVClass" URL="../Shell Messages/execute_reply Message/execute_reply Message.lvclass"/>
-		<Item Name="execute_request Message.lvclass" Type="LVClass" URL="../Shell Messages/execute_request Message/execute_request Message.lvclass"/>
-		<Item Name="inspect_reply Message.lvclass" Type="LVClass" URL="../Shell Messages/inspect_reply Message/inspect_reply Message.lvclass"/>
-		<Item Name="inspect_request Message.lvclass" Type="LVClass" URL="../Shell Messages/inspect_request Message/inspect_request Message.lvclass"/>
-		<Item Name="shutdown_reply Message.lvclass" Type="LVClass" URL="../Shell Messages/shutdown_reply Message/shutdown_reply Message_class/shutdown_reply Message.lvclass"/>
-		<Item Name="shutdown_request Message.lvclass" Type="LVClass" URL="../Shell Messages/shutdown_request Message/shutdown_request Message.lvclass"/>
-		<Item Name="kernel_info_request Message.lvclass" Type="LVClass" URL="../Shell Messages/kernel_info_request Message/kernel_info_request Message.lvclass"/>
-		<Item Name="kernel_info_reply Message.lvclass" Type="LVClass" URL="../Shell Messages/kernel_info_reply Message/kernel_info_reply Message.lvclass"/>
+		<Item Name="Request Classes" Type="Folder">
+			<Item Name="execute_request Message.lvclass" Type="LVClass" URL="../Shell Messages/execute_request Message/execute_request Message.lvclass"/>
+			<Item Name="inspect_request Message.lvclass" Type="LVClass" URL="../Shell Messages/inspect_request Message/inspect_request Message.lvclass"/>
+			<Item Name="shutdown_request Message.lvclass" Type="LVClass" URL="../Shell Messages/shutdown_request Message/shutdown_request Message.lvclass"/>
+			<Item Name="kernel_info_request Message.lvclass" Type="LVClass" URL="../Shell Messages/kernel_info_request Message/kernel_info_request Message.lvclass"/>
+		</Item>
+		<Item Name="Reply Classes" Type="Folder">
+			<Item Name="execute_reply Message.lvclass" Type="LVClass" URL="../Shell Messages/execute_reply Message/execute_reply Message.lvclass"/>
+			<Item Name="inspect_reply Message.lvclass" Type="LVClass" URL="../Shell Messages/inspect_reply Message/inspect_reply Message.lvclass"/>
+			<Item Name="shutdown_reply Message.lvclass" Type="LVClass" URL="../Shell Messages/shutdown_reply Message/shutdown_reply Message_class/shutdown_reply Message.lvclass"/>
+			<Item Name="kernel_info_reply Message.lvclass" Type="LVClass" URL="../Shell Messages/kernel_info_reply Message/kernel_info_reply Message.lvclass"/>
+		</Item>
 	</Item>
 	<Item Name="Utilities" Type="Folder">
 		<Item Name="base64_fast_decode.vi" Type="VI" URL="../Utility/base64_fast_decode.vi"/>
@@ -40,5 +44,6 @@
 		<Item Name="Load Connection File.vi" Type="VI" URL="../Utility/Load Connection File.vi"/>
 		<Item Name="Make URL.vi" Type="VI" URL="../Utility/Make URL.vi"/>
 		<Item Name="Variant Dictionary to JSON String.vi" Type="VI" URL="../Utility/Variant Dictionary to JSON String.vi"/>
+		<Item Name="Join Strings in node-path.vi" Type="VI" URL="../Utility/Join Strings in node-path.vi"/>
 	</Item>
 </Library>
