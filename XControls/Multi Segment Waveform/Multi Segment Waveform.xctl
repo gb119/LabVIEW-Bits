@@ -76,6 +76,18 @@
 			<Item Name="Initial Value Read.vi" Type="Property VI" URL="../Initial Value Read.vi"/>
 			<Item Name="Initial Value Write.vi" Type="Property VI" URL="../Initial Value Write.vi"/>
 		</Item>
+		<Item Name="Target Unit" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Target Unit</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Target Unit</Property>
+			<Item Name="Target Unit Read.vi" Type="Property VI" URL="../Properties/Target Unit Read.vi"/>
+			<Item Name="Target Unit Write.vi" Type="Property VI" URL="../Properties/Target Unit Write.vi"/>
+		</Item>
+		<Item Name="Step/Rate Unit" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Step/Rate Unit</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Step/Rate Unit</Property>
+			<Item Name="Step_Rate Unit Read.vi" Type="Property VI" URL="../Properties/Step_Rate Unit Read.vi"/>
+			<Item Name="Step_Rate Unit Write.vi" Type="Property VI" URL="../Properties/Step_Rate Unit Write.vi"/>
+		</Item>
 	</Item>
 	<Item Name="Data.ctl" Type="Ability VI" URL="../Data.ctl">
 		<Property Name="NI.XItem.Name" Type="Str">Data</Property>

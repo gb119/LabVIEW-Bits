@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2013-05-23 10:44:24" Modified_Date="2019-02-03 21:46:37" Creator="phygbu" Comments="" ID="1053ee31c0ef55037a21a6dc49fb0e0c">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2013-05-23 10:44:24" Modified_Date="2019-03-04 16:27:14" Creator="phygbu" Comments="" ID="ddbfa36381553f8b56184b1c122efb15">
   <Library_General_Settings>
     <Package_File_Name>lavag_lib_User_Interface_XControle_multi_segment_ramp_xcontrol</Package_File_Name>
-    <Library_Version>1.4.1.30</Library_Version>
+    <Library_Version>1.5.0.31</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\builds\XControls</Library_Output_Folder>
@@ -34,7 +34,7 @@
       <Copyright/>
       <Packager>Gavin Burnell</Packager>
       <URL>http://www.stoner.leeds.ac.uk/people/gb</URL>
-      <Release_Notes>1.4.1 MAke display state update force a reprogram of the control</Release_Notes>
+      <Release_Notes>1.5.0 Put back rate unit settings. Allow explicit setting of different target and step units</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -227,7 +227,7 @@
         <Path>Multi Segment Waveform.xctl</Path>
         <VI_Title>Multi Segment Waveform.xctl</VI_Title>
       </Items_Data>
-      <GUID>ADF610459E12F9ABF62886CB9C9B87D5</GUID>
+      <GUID>9C68D1E7F0D63AC315A10EF024386596</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
