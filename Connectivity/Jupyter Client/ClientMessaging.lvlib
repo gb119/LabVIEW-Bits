@@ -38,12 +38,15 @@
 		</Item>
 	</Item>
 	<Item Name="Utilities" Type="Folder">
+		<Item Name="Malleable VIs" Type="Folder">
+			<Item Name="Get Content By Name.vim" Type="VI" URL="../Utility/Malleable VIs/Get Content By Name.vim"/>
+			<Item Name="Get content keys.vim" Type="VI" URL="../Utility/Malleable VIs/Get content keys.vim"/>
+			<Item Name="Build User Expressions.vim" Type="VI" URL="../Utility/Malleable VIs/Build User Expressions.vim"/>
+		</Item>
 		<Item Name="base64_fast_decode.vi" Type="VI" URL="../Utility/base64_fast_decode.vi"/>
 		<Item Name="Connection.ctl" Type="VI" URL="../Utility/Connection.ctl"/>
-		<Item Name="Create Variant Dictionary from Variant Cluster.vi" Type="VI" URL="../Utility/Create Variant Dictionary from Variant Cluster.vi"/>
 		<Item Name="Load Connection File.vi" Type="VI" URL="../Utility/Load Connection File.vi"/>
 		<Item Name="Make URL.vi" Type="VI" URL="../Utility/Make URL.vi"/>
-		<Item Name="Variant Dictionary to JSON String.vi" Type="VI" URL="../Utility/Variant Dictionary to JSON String.vi"/>
 		<Item Name="Join Strings in node-path.vi" Type="VI" URL="../Utility/Join Strings in node-path.vi"/>
 	</Item>
 </Library>

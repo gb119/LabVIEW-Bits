@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2019-02-24 23:03:45" Modified_Date="2019-02-24 23:06:20" Creator="phygbu" Comments="" ID="f29e507f3c1acd457ff2d0fdd13e7ada">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2019-02-24 23:03:45" Modified_Date="2019-04-19 18:18:42" Creator="phygbu" Comments="" ID="e8814380f43cdb42d6ba2381ec9a483f">
   <Library_General_Settings>
-    <Package_File_Name/>
-    <Library_Version>1.0.0.1</Library_Version>
+    <Package_File_Name>University_of_Leeds_lib_Jupyter_Client</Package_File_Name>
+    <Library_Version>1.1.0.7</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\builds\Connectivity\Jupyter-Client</Library_Output_Folder>
@@ -12,17 +12,13 @@
     <Community_Edition>true</Community_Edition>
     <Package_Icon>00000D7E002800000C9A00000400000200020022002200080000000000FFFFFF00FF80000000FFFFFFFFFFFF0000FFFFFFFFCCCC0000FFFFFFFF99990000FFFFFFFF66660000FFFFFFFF33330000FFFFFFFF00000000FFFFCCCCFFFF0000FFFFCCCCCCCC0000FFFFCCCC99990000FFFFCCCC66660000FFFFCCCC33330000FFFFCCCC00000000FFFF9999FFFF0000FFFF9999CCCC0000FFFF999999990000FFFF999966660000FFFF999933330000FFFF999900000000FFFF6666FFFF0000FFFF6666CCCC0000FFFF666699990000FFFF666666660000FFFF666633330000FFFF666600000000FFFF3333FFFF0000FFFF3333CCCC0000FFFF333399990000FFFF333366660000FFFF333333330000FFFF333300000000FFFF0000FFFF0000FFFF0000CCCC0000FFFF000099990000FFFF000066660000FFFF000033330000FFFF000000000000CCCCFFFFFFFF0000CCCCFFFFCCCC0000CCCCFFFF99990000CCCCFFFF66660000CCCCFFFF33330000CCCCFFFF00000000CCCCCCCCFFFF0000CCCCCCCCCCCC0000CCCCCCCC99990000CCCCCCCC66660000CCCCCCCC33330000CCCCCCCC00000000CCCC9999FFFF0000CCCC9999CCCC0000CCCC999999990000CCCC999966660000CCCC999933330000CCCC999900000000CCCC6666FFFF0000CCCC6666CCCC0000CCCC666699990000CCCC666666660000CCCC666633330000CCCC666600000000CCCC3333FFFF0000CCCC3333CCCC0000CCCC333399990000CCCC333366660000CCCC333333330000CCCC333300000000CCCC0000FFFF0000CCCC0000CCCC0000CCCC000099990000CCCC000066660000CCCC000033330000CCCC0000000000009999FFFFFFFF00009999FFFFCCCC00009999FFFF999900009999FFFF666600009999FFFF333300009999FFFF000000009999CCCCFFFF00009999CCCCCCCC00009999CCCC999900009999CCCC666600009999CCCC333300009999CCCC0000000099999999FFFF000099999999CCCC0000999999999999000099999999666600009999999933330000999999990000000099996666FFFF000099996666CCCC0000999966669999000099996666666600009999666633330000999966660000000099993333FFFF000099993333CCCC0000999933339999000099993333666600009999333333330000999933330000000099990000FFFF000099990000CCCC000099990000999900009999000066660000999900003333000099990000000000006666FFFFFFFF00006666FFFFCCCC00006666FFFF999900006666FFFF666600006666FFFF333300006666FFFF000000006666CCCCFFFF00006666CCCCCCCC00006666CCCC999900006666CCCC666600006666CCCC333300006666CCCC0000000066669999FFFF000066669999CCCC0000666699999999000066669999666600006666999933330000666699990000000066666666FFFF000066666666CCCC0000666666669999000066666666666600006666666633330000666666660000000066663333FFFF000066663333CCCC0000666633339999000066663333666600006666333333330000666633330000000066660000FFFF000066660000CCCC000066660000999900006666000066660000666600003333000066660000000000003333FFFFFFFF00003333FFFFCCCC00003333FFFF999900003333FFFF666600003333FFFF333300003333FFFF000000003333CCCCFFFF00003333CCCCCCCC00003333CCCC999900003333CCCC666600003333CCCC333300003333CCCC0000000033339999FFFF000033339999CCCC0000333399999999000033339999666600003333999933330000333399990000000033336666FFFF000033336666CCCC0000333366669999000033336666666600003333666633330000333366660000000033333333FFFF000033333333CCCC0000333333339999000033333333666600003333333333330000333333330000000033330000FFFF000033330000CCCC000033330000999900003333000066660000333300003333000033330000000000000000FFFFFFFF00000000FFFFCCCC00000000FFFF999900000000FFFF666600000000FFFF333300000000FFFF000000000000CCCCFFFF00000000CCCCCCCC00000000CCCC999900000000CCCC666600000000CCCC333300000000CCCC0000000000009999FFFF000000009999CCCC0000000099999999000000009999666600000000999933330000000099990000000000006666FFFF000000006666CCCC0000000066669999000000006666666600000000666633330000000066660000000000003333FFFF000000003333CCCC0000000033339999000000003333666600000000333333330000000033330000000000000000FFFF000000000000CCCC0000000000009999000000000000666600000000000033330000EEEE000000000000DDDD000000000000BBBB000000000000AAAA0000000000008888000000000000777700000000000055550000000000004444000000000000222200000000000011110000000000000000EEEE000000000000DDDD000000000000BBBB000000000000AAAA0000000000008888000000000000777700000000000055550000000000004444000000000000222200000000000011110000000000000000EEEE000000000000DDDD000000000000BBBB000000000000AAAA0000000000008888000000000000777700000000000055550000000000004444000000000000222200000000000011110000EEEEEEEEEEEE0000DDDDDDDDDDDD0000BBBBBBBBBBBB0000AAAAAAAAAAAA0000888888888888000077777777777700005555555555550000444444444444000022222222222200001111111111110000000000000000CB000000CB000000CB0000000000000000000000000000000000CB0000000000CB000000CB000000CB0000000000000000000000000000000000CB0000000000CB000000CB000000CB0000000000CBCB000000CBCB000000CBCBCB0000CBCBCBCB000000CB000000CB00000000CB0000CB00CB0000CB00CB0000CB00CB000000CB000000CB000000CB00000000CBCBCBCB00CBCBCBCB00CB0000CB0000CBCB00CB000000CB000000CB00000000CB00000000CB00000000CB0000CB00000000CB00CBCBCB0000CB00CBCBCBCB0000CBCB000000CBCB00F8F8CBCBCB00CBCBCB00000000000000000000000000000000000000000000F68181000000000000000000000000000000000056F80000070E101616100F07002B2B000000000000000000000000000000000056F8000F16161616161616160FF60000000000000000000000000000000000000000101616100F0F0F0F0F161616070000000000000000000000000000000000000F10080000000000000000070F1000000000000000000000000000000000000808000000000000000000000000070800000000000000000000000000000000F60000000000000000000000000000F600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000080700000000000000000000000000080000000000000000000000FF0000000000100F010000000000000000000810070000000000000000000000FF0000000000071616100F080808080EFF161608000000000000000000000000FF00FF0000FF00FFFFFF1616FF16FF16FFFF0700FFFF0000FFFF000000000000FF00FF0000FF00FF0008FF16FF16FF10FF0000FF0000FF00FF00000000FF0000FF00FF0000FFF8FF2B00FF00FF07FF00FF0000FFFFFFFF00FF00000000FF0000FF00FF0000FF56FFF800FF00FF00FF00FF0000FF00000000FF0000000000FFFF000000FFFFFFF6FFFFFF000000FFFF0000FF0000FFFF0000FF0000000000000000000000000000FF000000000000FF000000000000000000000000000000000000000000000000FF00000000FFFF0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000008880002088800020888318E78887BDE88887BDE6888421E172F31BEE000007000067FF00006FFE00001FFF000038070000600180004000800000000000000000000000000000000000000000000000000060008008380380083FFF000A7FFFCC0A7FF9E84A7EE9E84A7EE90831FC64C8001020000010C0000000000000000000002900000012000000020000000D01000000000100000000000A000000080000000000240024002900000012000000020000000D00B2B2B900010000000000100000001000000002002300000000000000000023002900000012000000020000000D00FCFCFD00010000000000100000001000000002002200010001000100010022002900000012000000020000000D00B2B2B900010000000000100000001000000002000000240024002400240000002900000012000000020000000D0080808A00010000000000100000001000000002000100230023002300230001</Package_Icon>
     <Product_Name>Jupyter-Client</Product_Name>
-    <Was_Built>false</Was_Built>
+    <Was_Built>true</Was_Built>
     <Target>LabVIEW</Target>
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
-      <Additional_External_Dependencies>jki_lib_json_serialization &gt;=1.1.10.37</Additional_External_Dependencies>
+      <Additional_External_Dependencies>jdp_science_jsontext &gt;=1.2.13.82</Additional_External_Dependencies>
       <Additional_External_Dependencies>labview-zmq &gt;=1.0.5.1</Additional_External_Dependencies>
-      <Additional_External_Dependencies>oglib_array &gt;=4.1.1.14</Additional_External_Dependencies>
-      <Additional_External_Dependencies>oglib_error &gt;=4.2.0.23</Additional_External_Dependencies>
-      <Additional_External_Dependencies>oglib_lvdata &gt;=4.2.0.21</Additional_External_Dependencies>
-      <Additional_External_Dependencies>oglib_string &gt;=4.1.0.12</Additional_External_Dependencies>
       <Additional_External_Dependencies>university_of_leeds_lib_sha256 &gt;=1.0.5.1</Additional_External_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
@@ -46,7 +42,7 @@ To use this code you will also need to install the OpenG Variant data type libra
       <Copyright/>
       <Packager>Gavin Burnell</Packager>
       <URL>https://github.com/gb119/LabVIEW-Bits</URL>
-      <Release_Notes>Initial build</Release_Notes>
+      <Release_Notes>Allow client to connect to remote and all ready running kernels by supplying connection file or info. Some more bug fixes.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -107,6 +103,12 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Preserve_Hierarchy>true</Preserve_Hierarchy>
         <Path/>
       </QuickDrop_Plugins>
+      <Additional_Destination>
+        <Name>_exbins</Name>
+        <LLB>false</LLB>
+        <Preserve_Hierarchy>true</Preserve_Hierarchy>
+        <Path>&lt;application&gt;\examples\exbins</Path>
+      </Additional_Destination>
     </Destinations>
     <Source_Files>
       <Destination_Overrides>
@@ -116,9 +118,15 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
       <Destination_Overrides>
-        <Path>Client Test.vi</Path>
+        <Path>JuPyter Client Test.vi</Path>
         <Destination>1</Destination>
         <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Jupyter Client.bin3</Path>
+        <Destination>0</Destination>
+        <Additional_Destination>true</Additional_Destination>
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
       <Password_Overrides>
@@ -131,9 +139,12 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
-      <Compile_Exclusions>
-        <Path/>
-      </Compile_Exclusions>
+      <Exclusions>
+        <Path>JuPyter Client.lvproj</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>Utility/Malleable VIs/desktop.ini</Path>
+      </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath/>
     <Licensing_and_Activation>
@@ -289,21 +300,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>Utility</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Client Test.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Client Test.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>CD6C12C69ABD5494D2ED0761C3D6D1B3</GUID>
+      <GUID>F345250974E91AA48FA1A10ABDCB36A7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -366,7 +363,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>Base Classes\Request Message</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E9439BCEA9FC978F959CC7A51A5F50DD</GUID>
+      <GUID>C5C8187560F70F3E23185F7B05DE6936</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -499,7 +496,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>IOPub Messages\update_display_data</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5A589137F10D2D32C97C9982C49ABE4A</GUID>
+      <GUID>BBB52633A2730FBA99779167715E9B56</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -618,7 +615,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>JuPyter_Client\ReadIOPubEventRegistration.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>082484EEBCB964878DAECDB94780BD40</GUID>
+      <GUID>0A99E7B339A2857AC6A3A9E92B73F133</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -751,7 +748,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>Shell Messages\shutdown_request Message</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6D92F56FE8F5B57F1E3D95B1C62F39E2</GUID>
+      <GUID>1FAE196257590FA24CC227990E1D8C9A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -789,20 +786,6 @@ To use this code you will also need to install the OpenG Variant data type libra
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Create Variant Dictionary from Variant Cluster.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Utility\Create Variant Dictionary from Variant Cluster.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>Load Connection File.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -828,21 +811,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>Utility\Make URL.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Variant Dictionary to JSON String.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>5</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Utility\Variant Dictionary to JSON String.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>0DECBF5038F2CFB0037D242C790612F5</GUID>
+      <GUID>CCCCD11783A1165BD36A8F7D86986A86</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -936,34 +905,6 @@ To use this code you will also need to install the OpenG Variant data type libra
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Content By Name.vim</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Base Classes\Message Class\Get Content By Name.vim</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get content keys.vim</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Base Classes\Message Class\Get content keys.vim</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>Message Class_Init.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -986,7 +927,7 @@ To use this code you will also need to install the OpenG Variant data type libra
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Base Classes\Message Class\Serialise Content.vi</Path>
+        <Path>Base Classes\Message Class\protected\Serialise Content.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -1003,7 +944,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>Base Classes\Message Class\Serialise.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B156E2F6110F94A67CC2281A6FDEF934</GUID>
+      <GUID>225B15775AB7DB75E85A1EF32F9AFC7F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1080,7 +1021,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>Base Classes\Reply Message\Reply Message_Init.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>83011ED12AB9CFFFF7F4CE715615B5EE</GUID>
+      <GUID>D8DB778BB7DB03AE99A3D7C7C6641446</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1143,7 +1084,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>Base Classes\Request Message\Send to Shell.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8C6E65AB7B728181E9D1B2B16FC549FA</GUID>
+      <GUID>91048386D895BA1CBBC936E2BB4DEE87</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -1374,7 +1315,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>Base Classes\Message Class\properties\Writesocket.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F07C6BA0F5005E1DA8C7EEB7BB5C52C1</GUID>
+      <GUID>71060CB2E04967E8647127F400D4B897</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -1437,7 +1378,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>Base Classes\Message Class\protected\Deserialise metadata.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9B9930E583FAB7238580156E001CAE28</GUID>
+      <GUID>F99A0F7C9B9D51E000D36D9F1BB419E7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>7</Parent_Palette_Index>
@@ -1486,7 +1427,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>Base Classes\Reply Message\properties\ReadStatusOk.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CAAA47AEBFD5AF831AF3E2D1DF509C49</GUID>
+      <GUID>BEC35FB52367CAB2C3D38BC307D8874E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>7</Parent_Palette_Index>
@@ -1521,7 +1462,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>Base Classes\Reply Message\protected\Deserialise content.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E88FF3A6099EA2683321F764A7CF065F</GUID>
+      <GUID>13E8AA7C0AD4BEE70DCA20A16A6E5C3F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1570,7 +1511,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>IOPub Messages\clear_output Message\clear_output Message_Init.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C4191ADC53AE0C9BABCB90EFF5820864</GUID>
+      <GUID>2D416490125FD3DB45965061E938DCC8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1647,7 +1588,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>IOPub Messages\display_data Message\display_data Message_Init.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E6CDAC92B6756264D6C2532C3BACADA7</GUID>
+      <GUID>D70E20D152F440F8ECAE30E779F70737</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1724,7 +1665,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>IOPub Messages\error Message\error Message_Init.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>29C57373C5A3ADBA08F8B46699101773</GUID>
+      <GUID>C822C1CDB6835DDD17E93C7657C6FAF3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1801,7 +1742,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>IOPub Messages\execute_input Message\execute_input Message_Init.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>03C0602CD954C41190080AB35644747C</GUID>
+      <GUID>11B9BD0C6802A635A1F2C4017ADDEAA7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1892,7 +1833,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>IOPub Messages\execute_result Message\SetTextplain.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>588BF6BBFBD64DD03B9472AD9D0BDD6B</GUID>
+      <GUID>3B279E8D5D2181124A1D9DF42550F734</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1969,7 +1910,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>IOPub Messages\status Message\status Message_Init.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B656C017D9B48157555B68CBCADE2C26</GUID>
+      <GUID>8DF4E57DA077E4467A4BE965A2C8E6F9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -2046,7 +1987,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>IOPub Messages\stream Message\stream Message_Init.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8460FC0A407D0E2BFA218F10507FACB4</GUID>
+      <GUID>7E00B874C96573A09448FDDE98197F0A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -2095,7 +2036,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>IOPub Messages\update_display_data\update_display_data_Init.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F4A9077383D718EE18F2AE776B2C4ECA</GUID>
+      <GUID>41B97D1E5DD1589E664F8F7767864FB3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>14</Parent_Palette_Index>
@@ -2144,7 +2085,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>IOPub Messages\display_data Message\properties\ReadTextplain.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9A739740C7B01951E8E9FC2EF0BE8B0D</GUID>
+      <GUID>885BF2401F2893DD88565E88DE13DF0E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>14</Parent_Palette_Index>
@@ -2179,7 +2120,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>IOPub Messages\display_data Message\protected\Deserialise content.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2EF947F85C73897722D582435E7BCE50</GUID>
+      <GUID>018BFB9484302FE136D4FDD3BF905344</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>15</Parent_Palette_Index>
@@ -2284,7 +2225,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>IOPub Messages\error Message\properties\Writetraceback.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1A6611E75A0A21F3EAE785BB42D715AB</GUID>
+      <GUID>D01B6FFA39099DD791264C0B92E340BF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>16</Parent_Palette_Index>
@@ -2361,7 +2302,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>IOPub Messages\execute_input Message\properties\Writeexecution_count.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>AAEA4EA5014D41FB74F92C4E708BF67B</GUID>
+      <GUID>EFAE75825E761CC577D1CF54C79AB217</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>16</Parent_Palette_Index>
@@ -2396,7 +2337,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>IOPub Messages\execute_input Message\protected\Deserialise content.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B1600011175432277F3C2AB7D7AB6599</GUID>
+      <GUID>383B859C35ADAE23989A9E3B93930F69</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>17</Parent_Palette_Index>
@@ -2431,7 +2372,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>IOPub Messages\execute_result Message\protected\Deserialise content.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1EA150B1DEA176BBF30ECAD496AED6CB</GUID>
+      <GUID>1F9C683BA2E4D91008C66D21110B8557</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>18</Parent_Palette_Index>
@@ -2480,7 +2421,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>IOPub Messages\status Message\properties\Writestatus.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C41E0A7C79E46DA2CABC56348AAAA74C</GUID>
+      <GUID>9EF33BA8C379571D52973D4F3C763560</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>18</Parent_Palette_Index>
@@ -2515,7 +2456,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>IOPub Messages\status Message\protected\Deserialise content.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>364AC521D3336B2257AFE0CB3BB9A8C1</GUID>
+      <GUID>ED0D4269771D14A4DE5826DF4F8860DF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>19</Parent_Palette_Index>
@@ -2592,7 +2533,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>IOPub Messages\stream Message\properties\Writetext.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7C0A140464EB81D5EB36B27ECC5BCF8F</GUID>
+      <GUID>0481B1379D29733F85A9C64D0DE020A8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>19</Parent_Palette_Index>
@@ -2627,7 +2568,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>IOPub Messages\stream Message\protected\Deserialise content.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F71B6C106C5292A6F1336607E9B37669</GUID>
+      <GUID>B4C77A5716C18BEDB3F890AE93B19F3F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -2690,7 +2631,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>JuPyter_Client\private\Locate Python Vendors and Versions.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>219716738BBE995ADA62AB631E793E32</GUID>
+      <GUID>49580D7F025048971893DF9D5433C90E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -2921,7 +2862,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>JuPyter_Client\properties\WriteUse event Handler for Shell.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C4C655B77E943FC27DAD86446F253366</GUID>
+      <GUID>20FEBE9E1181E9D6D83FF4998E07907D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -3054,7 +2995,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>JuPyter_Client\public\Wait for MEssages.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>087A051F804577B4DDDD2D28A4BE6D28</GUID>
+      <GUID>E189172B6F98A533D20A9F67D61E6F0C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -3131,7 +3072,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>Shell Messages\execute_reply Message\execute_reply Message_Init.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>70C0B409F6CA5F378C359C48370EE7DD</GUID>
+      <GUID>DFE6426352645602E8582EE7A9E35D39</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -3169,20 +3110,6 @@ To use this code you will also need to install the OpenG Variant data type libra
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Build Iser Ex[ressions.vim</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Shell Messages\execute_request Message\Build Iser Ex[ressions.vim</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>CleanUp.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -3208,7 +3135,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>Shell Messages\execute_request Message\execute_request Message_Init.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EA4BC028F5238CCD29E98386A79F407A</GUID>
+      <GUID>9E45D016B78663390E5D3D77C296059E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -3285,7 +3212,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>Shell Messages\inspect_reply Message\inspect_reply Message_Init.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1EC698AC8CC6A340FC2EEA25959EDD54</GUID>
+      <GUID>7F6BD16F9F6FA3D9924E83F5BE271B52</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -3362,7 +3289,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>Shell Messages\inspect_request Message\Name.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0590ED378D27FE5DF772F7EDDBB4173E</GUID>
+      <GUID>A7EADB6CF33D1050ACB2D6586184AAF0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -3439,7 +3366,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>Shell Messages\kernel_info_reply Message\kernel_info_reply Message_Init.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8FEAE81FF065345DD099B4A59910680E</GUID>
+      <GUID>F8EC2EBBE6052421A1C70936811B5201</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -3502,7 +3429,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>Shell Messages\kernel_info_request Message\kernel_info_request Message_Init.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A40D4DCBBE9DCF866A435E3E17059DD1</GUID>
+      <GUID>C386E24768B03498B8826EABB1A46C23</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -3537,7 +3464,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>Shell Messages\shutdown_reply Message\shutdown_reply Message_class</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CA65785ED52F1706776EE9DAB219A1AC</GUID>
+      <GUID>148D22BCE8161FB254C320E415F8CF74</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -3614,7 +3541,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>Shell Messages\shutdown_request Message\shutdown_request Message_Init.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6DBF353A8FCE35BC589F46463A52E2D0</GUID>
+      <GUID>1F57553C6163142994E028CF93EFE5DA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>34</Parent_Palette_Index>
@@ -3677,7 +3604,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>Shell Messages\execute_reply Message\properties\ReadUserExpressions.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>26258C1FC0F765FE48BECFA302089406</GUID>
+      <GUID>F3423FFB72B7BC31590E7A8FACF51F9A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>34</Parent_Palette_Index>
@@ -3712,7 +3639,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>Shell Messages\execute_reply Message\protected\Deserialise content.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C9741E3C09BE48CB72C5BEB6DA1E27FD</GUID>
+      <GUID>954DB18E4A84201AE669CC79783745AB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>35</Parent_Palette_Index>
@@ -3929,7 +3856,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>Shell Messages\execute_request Message\properties\WriteUser_expressions.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>10BCE9F4DEDF7A1D4970D777BCB35991</GUID>
+      <GUID>288DADB9429412DD70879A018A5A25D6</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>36</Parent_Palette_Index>
@@ -3992,7 +3919,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>Shell Messages\inspect_reply Message\properties\ReadMetadata.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DE0CA7D87D701F3BD27572115900DDFD</GUID>
+      <GUID>EE793FEF4BFA90EAC12C396F823DDC44</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>37</Parent_Palette_Index>
@@ -4111,7 +4038,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>Shell Messages\inspect_request Message\properties\WriteDetail_level.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E562EB3FE62A04D9948C777F140A9682</GUID>
+      <GUID>4AEC3044A71EE456B6C367A8CB7063BF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>38</Parent_Palette_Index>
@@ -4328,7 +4255,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>Shell Messages\kernel_info_reply Message\properties\Writeversion.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BD19753DC8369B5743C344EE00086EB9</GUID>
+      <GUID>C5DE86370FD7219F20A92C4B91BA3E3B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>38</Parent_Palette_Index>
@@ -4363,7 +4290,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>Shell Messages\kernel_info_reply Message\protected\Deserialise content.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>003BE25CF06C184A89A24CBBE4A6CC70</GUID>
+      <GUID>354C120DFC94956BB269CDF250835AFF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>39</Parent_Palette_Index>
@@ -4398,7 +4325,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>Shell Messages\kernel_info_request Message\properties\Name.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E5047B5059D1BC5C549F6CC5F3A0E17C</GUID>
+      <GUID>5F178BD1FC2EF8629C91FC3EE92CA519</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>40</Parent_Palette_Index>
@@ -4475,7 +4402,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>Shell Messages\shutdown_reply Message\shutdown_reply Message_class\shutdown_reply Message_Init.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F07A77386DDD186D25A76E11E8EB6E66</GUID>
+      <GUID>FBC66A1765E2DCC551701F0FAE535A24</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>50</Parent_Palette_Index>
@@ -4510,7 +4437,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>Shell Messages\shutdown_reply Message\shutdown_reply Message_class\properties\ReadRestart.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>77BDB174422B8FAAFFF8C9A6A6A31704</GUID>
+      <GUID>2C3C744AF13A9302F1C5D7BDC678ECD5</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>50</Parent_Palette_Index>
@@ -4545,7 +4472,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>Shell Messages\shutdown_reply Message\shutdown_reply Message_class\protected\Deserialise content.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5B3B9FCC75261EFAED0D30F49A071A3A</GUID>
+      <GUID>50088B4965C599A19EB5D39136B87AF2</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>41</Parent_Palette_Index>
@@ -4608,7 +4535,7 @@ To use this code you will also need to install the OpenG Variant data type libra
         <Path>Shell Messages\shutdown_request Message\properties\WriteRestart.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7B92722A71C9A08432FD5D97503BAC22</GUID>
+      <GUID>0AB3D9BCBDBF1193B8D6CC4D90EFC9B6</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
