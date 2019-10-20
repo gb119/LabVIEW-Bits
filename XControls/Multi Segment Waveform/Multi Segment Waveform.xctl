@@ -88,6 +88,11 @@
 			<Item Name="Step_Rate Unit Read.vi" Type="Property VI" URL="../Properties/Step_Rate Unit Read.vi"/>
 			<Item Name="Step_Rate Unit Write.vi" Type="Property VI" URL="../Properties/Step_Rate Unit Write.vi"/>
 		</Item>
+		<Item Name="Current Program Step" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Current Program Step</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Current Program Step</Property>
+			<Item Name="Current Program Step Read.vi" Type="Property VI" URL="../Properties/Current Program Step Read.vi"/>
+		</Item>
 	</Item>
 	<Item Name="Data.ctl" Type="Ability VI" URL="../Data.ctl">
 		<Property Name="NI.XItem.Name" Type="Str">Data</Property>
