@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2019-02-18 17:02:04" Modified_Date="2020-03-29 14:23:58" Creator="phygbu" Comments="" ID="0fd5db12c779ade3562c3d6112be5f59">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2019-02-18 17:02:04" Modified_Date="2020-03-29 18:06:36" Creator="phygbu" Comments="" ID="600fa5ed7e9509ca6c1b1f2e4bc9e95f">
   <Library_General_Settings>
     <Package_File_Name>University_of_Leeds_lib_SHA256</Package_File_Name>
-    <Library_Version>1.1.0.5</Library_Version>
+    <Library_Version>1.1.0.6</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\builds</Library_Output_Folder>
@@ -266,7 +266,7 @@
         <Path>Private</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F6F37673731F7B4402F20DDD398E0C1C</GUID>
+      <GUID>C55668E9A535169CFA172DD217BDC6E0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -399,7 +399,7 @@
         <Path>Sigma1.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>39A04D39D444A5AA2F3D2278BE47CD49</GUID>
+      <GUID>AB32C6BD57947DFFC4E9F56E77C772E1</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
