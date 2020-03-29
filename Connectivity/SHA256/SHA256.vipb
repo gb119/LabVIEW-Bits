@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2019-02-18 17:02:04" Modified_Date="2019-02-19 13:49:10" Creator="phygbu" Comments="" ID="6bbc7a9a524fa8bdfbe7ecb14413fd95">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2019-02-18 17:02:04" Modified_Date="2020-03-29 14:23:58" Creator="phygbu" Comments="" ID="0fd5db12c779ade3562c3d6112be5f59">
   <Library_General_Settings>
     <Package_File_Name>University_of_Leeds_lib_SHA256</Package_File_Name>
-    <Library_Version>1.0.5.4</Library_Version>
+    <Library_Version>1.1.0.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\builds</Library_Output_Folder>
@@ -32,7 +32,7 @@
       <Copyright/>
       <Packager>Gavin Burnell</Packager>
       <URL>https://github.com/gb119/LabVIEW-Bits</URL>
-      <Release_Notes>Rebuild as native LabVIEW 2018 Package</Release_Notes>
+      <Release_Notes>v1.1.0 - Make the Hash File with SHA256.vi read 64 bytes at a time rather than sucking the whole file into memory. Fix a provacy level error (thanks to Jim Kring for the bug report)</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -266,7 +266,7 @@
         <Path>Private</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C97C32ACEE03E49C70ACC13AF0EAA5AB</GUID>
+      <GUID>F6F37673731F7B4402F20DDD398E0C1C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -399,7 +399,7 @@
         <Path>Sigma1.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D0F0E399BE5C43134E8621B1B02D9029</GUID>
+      <GUID>39A04D39D444A5AA2F3D2278BE47CD49</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
